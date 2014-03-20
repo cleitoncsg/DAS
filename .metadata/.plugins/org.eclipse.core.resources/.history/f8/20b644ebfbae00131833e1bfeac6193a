@@ -1,0 +1,27 @@
+package exercicio.poligono.das;
+
+import static org.junit.Assert.*;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+
+public class QuadradoTest {
+	private Quadrado quadrado;
+
+	@Before
+	public void setUp() throws Exception {
+		quadrado = new Quadrado();
+	}
+
+	@After
+	public void tearDown() throws Exception {
+	}
+
+	@Test
+	public void testQuadrado() {
+		quadrado.setLado(2);
+		assertEquals(quadrado.area, quadrado.calculaArea());
+	}
+
+}

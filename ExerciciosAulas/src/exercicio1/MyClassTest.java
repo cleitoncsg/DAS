@@ -16,7 +16,8 @@ public class MyClassTest {
 	}
 
 	@After
-	public void tearDown() throws Exception {
+	public void tearDown() throws Throwable {
+		super.finalize();
 	}
 
 	@Test

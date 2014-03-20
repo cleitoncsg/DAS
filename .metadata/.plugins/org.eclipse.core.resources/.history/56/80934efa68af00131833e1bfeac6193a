@@ -1,0 +1,30 @@
+package exercicio.poligono.das;
+
+import static org.junit.Assert.*;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+
+public class QuadradoTest {
+	private Quadrado quadrado;
+
+	@Before
+	public void setUp(){
+		quadrado = new Quadrado();
+	}
+
+	@After
+	public void tearDown() throws Exception {
+	}
+
+	@Test
+	public void testQuadrado() {
+		quadrado.setLado(2);
+		assertEquals(4.0f, quadrado.calculaArea(), 0.1);
+		assertTrue(quadrado.getLado() %2 == 0);
+		System.out.println("TESTE LADO PAR: " + quadrado.toString());
+		System.out.println(""+ quadrado.calculaArea());
+	}
+
+}

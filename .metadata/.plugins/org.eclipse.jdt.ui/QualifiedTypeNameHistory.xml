@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="exercicio1.MyClass"/>
+<fullyQualifiedTypeName name="exercicio.poligono.das.Quadrado"/>
+<fullyQualifiedTypeName name="FabricaAbstrata"/>
+<fullyQualifiedTypeName name="Fabrica1"/>
+<fullyQualifiedTypeName name="Fabrica2"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,6 @@
+
+public abstract class Poligono {
+	float area;
+	
+	public abstract void calculaArea();
+}

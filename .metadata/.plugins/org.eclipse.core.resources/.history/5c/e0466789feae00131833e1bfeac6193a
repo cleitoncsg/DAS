@@ -1,0 +1,20 @@
+package exercicio.poligono.das;
+
+
+public class Quadrado extends Poligono{
+	
+	private double lado;
+
+	@Override
+	public double calculaArea() {
+		return lado*lado;
+	}
+
+	public double getLado(){
+		return lado;
+	}
+	public void setLado(double lado){
+		this.lado = lado;
+	}
+
+}

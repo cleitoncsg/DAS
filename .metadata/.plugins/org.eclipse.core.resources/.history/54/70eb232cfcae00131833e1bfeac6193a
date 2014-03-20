@@ -1,0 +1,7 @@
+package exercicio.poligono.das;
+
+public abstract class Poligono {
+	float area;
+	
+	public abstract float calculaArea();
+}

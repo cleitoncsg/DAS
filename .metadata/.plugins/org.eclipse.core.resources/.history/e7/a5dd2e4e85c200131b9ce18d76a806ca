@@ -1,0 +1,45 @@
+package Refatoracao3;
+
+import static org.junit.Assert.*;
+import junit.framework.Assert;
+
+import org.junit.Before;
+import org.junit.Test;
+
+/**
+ * Esse Caso de Teste � extremamente simples. Ele testa uma �nica unidade do projeto, no caso a classe DEDUCAO. O 
+ * teste � feito com base na interface p�blica do objeto DEDUCAO, e testar� coisas como instancia��o de objetos, 
+ * atribui��o de valores, etc...
+ * @author Andre
+ *
+ */
+public class DeducaoTest {
+
+	Deducao previdenciaOficial, previdenciaPrivada; 
+	
+	@Before
+	public void setUp(){
+		previdenciaOficial = new Deducao("Previdencia Oficial", 400);
+		previdenciaPrivada = new Deducao("Previdencia Privada", 500);
+	}
+	
+	
+	@Test
+	public void testDeducao() {
+		Assert.assertNotNull(previdenciaOficial);
+		Assert.assertNotNull(previdenciaPrivada);
+	}
+
+	@Test
+	public void testGetDescricao() {
+		Assert.assertEquals("Previdencia Oficial", previdenciaOficial.getDescricao());
+		Assert.assertEquals("Previdencia Privada", previdenciaPrivada.getDescricao());
+	}
+
+	@Test
+	public void testGetValor() {
+		Assert.assertEquals(400.0, (double)previdenciaOficial.getValor());
+		Assert.assertEquals(500.0, (double)previdenciaPrivada.getValor());
+	}
+
+}

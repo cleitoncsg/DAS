@@ -1,0 +1,41 @@
+package Refatoracao_1;
+import static org.junit.Assert.*;
+import junit.framework.Assert;
+
+import org.junit.Before;
+import org.junit.Test;
+
+
+public class ContribuinteParametrizado {
+
+	Contribuinte c1 = new Contribuinte("Fulano de tal", new int[]{1,2,3,4,5,6,7,8,9,0,0});
+    Rendimento r1 = new Rendimento("Salario", 6000, true);
+    Deducao d1 = new Deducao("Previdencia oficial", 900), 
+    		d2 = new Dependente("Fulano de tal Junior", new int[]{9,9,9,8,8,8,7,7,7,0,0}), 
+    		d3 = new Dependente("Ciclano de tal", new int[]{1,2,3,3,2,1,1,2,3,0,0}), 
+    		d4 = new Dependente("Fulano de tal Neto", new int[]{3,2,1,1,2,3,3,2,1,0,0});
+    
+	
+	@Before
+	public void setUp() {
+		c1.adicionarRendimento(r1);
+		c1.adicionarDeducao(d1);
+		c1.adicionarDeducao(d2);
+		c1.adicionarDeducao(d3);
+		c1.adicionarDeducao(d4);
+	}
+	
+	@Test
+	public void test() {
+		Assert.assertEquals(470.05, (double)c1.calcularImposto(), 0.02);
+		Assert.assertEquals(6000.00, (double)c1.getTotalRendimentosTributaveis(), 0.02);
+		Assert.assertEquals(1415.91, (double)c1.getTotalDeducoes(), 0.02);
+		Assert.assertEquals(4584.09, (double)c1.getBaseDeCalculo(), 0.02);
+		Assert.assertEquals(0.0, (double)c1.getValor1aFaixa(), 0.02);
+		Assert.assertEquals(63.98, (double)c1.getValor2aFaixa(), 0.02);
+		Assert.assertEquals(128.20, (double)c1.getValor3aFaixa(), 0.02);
+		Assert.assertEquals(191.93, (double)c1.getValor4aFaixa(), 0.02);
+		Assert.assertEquals(85.94, (double)c1.getValor5aFaixa(), 0.02);
+	}
+
+}

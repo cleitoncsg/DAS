@@ -1,0 +1,29 @@
+package Refatoracao2_1aParte;
+
+import java.util.Enumeration;
+
+public class Teste {
+
+	public Teste() {
+		super();
+	}
+
+	protected void calcularRendimentos() {
+		//1a PARTE: CALCULOS DOS RENDIMENTOS TRIBUTAVEIS
+		totalRendimentos = 0; 
+		totalRendimentosTributaveis = 0; 
+		totalRendimentosIsentos = 0;
+		
+		//calculo o total de rendimentos, rendimentos tribut�veis e rendimentos isentos
+		Enumeration<Rendimento> r  = rendimentos.elements();
+		while (r.hasMoreElements()) {
+			Rendimento temp = (Rendimento) r.nextElement();
+			totalRendimentos += temp.getValor(); 
+			if (temp.isTributavel())
+				totalRendimentosTributaveis += temp.getValor(); 
+			else
+				totalRendimentosIsentos += temp.getValor();
+		}
+	}
+
+}

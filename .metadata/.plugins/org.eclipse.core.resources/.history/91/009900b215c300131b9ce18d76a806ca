@@ -1,0 +1,11 @@
+package Refatoracao_1;
+
+import java.util.Vector;
+
+public class CalculoImposto {
+	public Vector<Rendimento> rendimentos;
+	public Vector<Deducao> deducoes;
+
+	public CalculoImposto() {
+	}
+}

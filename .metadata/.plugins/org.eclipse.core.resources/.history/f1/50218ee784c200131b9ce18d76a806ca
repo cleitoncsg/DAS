@@ -1,0 +1,30 @@
+package Refatoracao2_1aParte;
+
+public class Deducao {
+	private String descricao; //para armazenar a descricao da deducao (previdencia oficial, previdencia privada, pens�o, etc...)
+	protected float valor;
+	
+	public Deducao(String descricao, float valorDeducao) {
+		this.descricao = descricao; 
+		this.valor = valorDeducao;
+	}
+
+	
+	public String getDescricao() {
+		return descricao;
+	}
+
+	public void setDescricao(String descricao) {
+		this.descricao = descricao;
+	}
+
+	public float getValor() {
+		return valor;
+	}
+
+	public void setValor(float valor) {
+		this.valor = valor;
+	}
+	
+	
+}

@@ -1,0 +1,111 @@
+package Refatoracao2_1aParte_FeitoEmSala;
+
+public class NovoCPF {
+
+	//private int[] numCPF;
+	
+	private int _1oDigito, 
+	            _2oDigito, 
+	            _3oDigito,
+	            _4oDigito,
+	            _5oDigito,
+	            _6oDigito,
+	            _7oDigito,
+	            _8oDigito,
+	            _9oDigito,
+	            _10oDigito,
+	            _11oDigito;
+	
+	public NovoCPF() {
+		//numCPF = new int[11];
+	}
+	
+	public int get1oDigito() {
+		return _1oDigito;
+	}
+	
+	public void set1oDigito(int digito) {
+		_1oDigito = digito;
+	}
+	
+	public int get2oDigito() {
+		return _2oDigito;
+	}
+	
+	public void set2oDigito(int digito) {
+		_2oDigito = digito;
+	}
+
+	public int get3oDigito() {
+		return _3oDigito;
+	}
+	
+	public void set3oDigito(int digito) {
+		_3oDigito = digito;
+	}
+	
+	public int get4oDigito() {
+		return _4oDigito;
+	}
+	
+	public void set4oDigito(int digito) {
+		_4oDigito = digito;
+	}
+	
+
+	public int get5oDigito() {
+		return _5oDigito;
+	}
+	
+	public void set5oDigito(int digito) {
+		_5oDigito = digito;
+	}
+
+	public int get6oDigito() {
+		return _6oDigito;
+	}
+	
+	public void set6oDigito(int digito) {
+		_6oDigito = digito;
+	}
+
+	public int get7oDigito() {
+		return _7oDigito;
+	}
+	
+	public void set7oDigito(int digito) {
+		_7oDigito = digito;
+	}
+
+	public int get8oDigito() {
+		return _8oDigito;
+	}
+	
+	public void set8oDigito(int digito) {
+		_8oDigito = digito;
+	}
+
+	public int get9oDigito() {
+		return _9oDigito;
+	}
+	
+	public void set9oDigito(int digito) {
+		_9oDigito = digito;
+	}
+
+	public int get10oDigito() {
+		return _10oDigito;
+	}
+	
+	public void set10oDigito(int digito) {
+		_10oDigito = digito;
+	}
+
+	public int get11oDigito() {
+		return _11oDigito;
+	}
+	
+	public void set11oDigito(int digito) {
+		_11oDigito = digito;
+	}
+}

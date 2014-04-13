@@ -8,7 +8,6 @@ public class Contribuinte {
 	private String nome; 
 	//private int[] cpf;
 	CPF cpf;
-	CalculoDeImposto calculoDeImposto = new CalculoDeImposto();
 
 	public Contribuinte(String nome, int[] cpf) {
 		this.nome = nome; 
@@ -18,8 +17,10 @@ public class Contribuinte {
 	}
 	
 
-	public float calcularImposto() {	
-	     return calcularImposto();
+	public float calcularImposto() {
+		
+	     return new CalculoDeImposto().calculoImposto();
+		
 	}
 
 

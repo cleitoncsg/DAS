@@ -18,8 +18,10 @@ public class Contribuinte {
 	}
 	
 
-	public float calcularImposto() {	
-	     return calcularImposto();
+	public float calcularImposto() {
+		
+	
+		
 	}
 
 

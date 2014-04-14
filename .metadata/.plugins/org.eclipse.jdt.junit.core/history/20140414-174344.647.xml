@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="SuiteDeTestes (3)" project="treinoProvaUm" tests="43" started="43" failures="0" errors="0" ignored="0">
+  <testsuite name="Refatoracao2_1aParte.SuiteDeTestes" time="0.0">
+    <testsuite name="Refatoracao2_1aParte.Contribuinte2aFaixaTest" time="0.0">
+      <testcase name="test" classname="Refatoracao2_1aParte.Contribuinte2aFaixaTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte.Contribuinte3aFaixaTest" time="0.0">
+      <testcase name="test" classname="Refatoracao2_1aParte.Contribuinte3aFaixaTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte.Contribuinte4aFaixaTest" time="0.0">
+      <testcase name="test" classname="Refatoracao2_1aParte.Contribuinte4aFaixaTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte.Contribuinte5aFaixaTest" time="0.0">
+      <testcase name="test" classname="Refatoracao2_1aParte.Contribuinte5aFaixaTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte.ContribuinteIsentoTest" time="0.0">
+      <testcase name="test" classname="Refatoracao2_1aParte.ContribuinteIsentoTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte.ContribuinteParametrizado" time="0.0">
+      <testcase name="test" classname="Refatoracao2_1aParte.ContribuinteParametrizado" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte.ContribuinteTest" incomplete="true">
+      <testcase name="testContribuinte" classname="Refatoracao2_1aParte.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirDeducao" classname="Refatoracao2_1aParte.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarRendimento" classname="Refatoracao2_1aParte.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarDeducao" classname="Refatoracao2_1aParte.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirRendimento" classname="Refatoracao2_1aParte.ContribuinteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte.DeducaoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="Refatoracao2_1aParte.DeducaoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="Refatoracao2_1aParte.DeducaoTest" incomplete="true"/>
+      <testcase name="testDeducao" classname="Refatoracao2_1aParte.DeducaoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte.DependenteTest" incomplete="true">
+      <testcase name="testGetValor" classname="Refatoracao2_1aParte.DependenteTest" incomplete="true"/>
+      <testcase name="testDependente" classname="Refatoracao2_1aParte.DependenteTest" incomplete="true"/>
+      <testcase name="testGetNome" classname="Refatoracao2_1aParte.DependenteTest" incomplete="true"/>
+      <testcase name="testGetCpf" classname="Refatoracao2_1aParte.DependenteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte.ImpostoTeste" time="0.0">
+      <testcase name="testeBaseDeCalculo" classname="Refatoracao2_1aParte.ImpostoTeste" time="0.0"/>
+      <testcase name="testeValorRendimentosIsentos" classname="Refatoracao2_1aParte.ImpostoTeste" time="0.0"/>
+      <testcase name="testeValorRendimentosTributaveis" classname="Refatoracao2_1aParte.ImpostoTeste" time="0.0"/>
+      <testcase name="testeValorDeducoes" classname="Refatoracao2_1aParte.ImpostoTeste" time="0.0"/>
+      <testcase name="testeValorRendimentos" classname="Refatoracao2_1aParte.ImpostoTeste" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte.RendimentoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="Refatoracao2_1aParte.RendimentoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="Refatoracao2_1aParte.RendimentoTest" incomplete="true"/>
+      <testcase name="testIsTributavel" classname="Refatoracao2_1aParte.RendimentoTest" incomplete="true"/>
+      <testcase name="testRendimento" classname="Refatoracao2_1aParte.RendimentoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte.TestesElementares" time="0.0">
+      <testsuite name="Refatoracao2_1aParte.ContribuinteTest" time="0.0">
+        <testcase name="testContribuinte" classname="Refatoracao2_1aParte.ContribuinteTest" time="0.0"/>
+        <testcase name="testExcluirDeducao" classname="Refatoracao2_1aParte.ContribuinteTest" time="0.0"/>
+        <testcase name="testAdicionarRendimento" classname="Refatoracao2_1aParte.ContribuinteTest" time="0.0"/>
+        <testcase name="testAdicionarDeducao" classname="Refatoracao2_1aParte.ContribuinteTest" time="0.0"/>
+        <testcase name="testExcluirRendimento" classname="Refatoracao2_1aParte.ContribuinteTest" time="0.0"/>
+      </testsuite>
+      <testsuite name="Refatoracao2_1aParte.DeducaoTest" time="0.0">
+        <testcase name="testGetDescricao" classname="Refatoracao2_1aParte.DeducaoTest" time="0.0"/>
+        <testcase name="testGetValor" classname="Refatoracao2_1aParte.DeducaoTest" time="0.0"/>
+        <testcase name="testDeducao" classname="Refatoracao2_1aParte.DeducaoTest" time="0.0"/>
+      </testsuite>
+      <testsuite name="Refatoracao2_1aParte.DependenteTest" time="0.0">
+        <testcase name="testGetValor" classname="Refatoracao2_1aParte.DependenteTest" time="0.0"/>
+        <testcase name="testDependente" classname="Refatoracao2_1aParte.DependenteTest" time="0.0"/>
+        <testcase name="testGetNome" classname="Refatoracao2_1aParte.DependenteTest" time="0.0"/>
+        <testcase name="testGetCpf" classname="Refatoracao2_1aParte.DependenteTest" time="0.0"/>
+      </testsuite>
+      <testsuite name="Refatoracao2_1aParte.RendimentoTest" time="0.0">
+        <testcase name="testGetDescricao" classname="Refatoracao2_1aParte.RendimentoTest" time="0.0"/>
+        <testcase name="testGetValor" classname="Refatoracao2_1aParte.RendimentoTest" time="0.0"/>
+        <testcase name="testIsTributavel" classname="Refatoracao2_1aParte.RendimentoTest" time="0.0"/>
+        <testcase name="testRendimento" classname="Refatoracao2_1aParte.RendimentoTest" time="0.0"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

@@ -1,0 +1,5 @@
+package tenisGamme;
+
+public interface TennisGame {
+
+}

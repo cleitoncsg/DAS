@@ -1,0 +1,26 @@
+package Refatoracao2_1aParte;
+
+import java.util.Vector;
+
+public class ContribuiteTributo {
+	public float totalRendimentos;
+	public float totalRendimentosTributaveis;
+	public float totalRendimentosIsentos;
+	public float baseDeCalculo;
+	public float valor1aFaixa;
+	public float valor2aFaixa;
+	public float valor3aFaixa;
+	public float valor4aFaixa;
+	public float valor5aFaixa;
+	public Vector<Rendimento> rendimentos;
+	public Vector<Deducao> deducoes;
+
+	public ContribuiteTributo(float valor1aFaixa, float valor2aFaixa,
+			float valor3aFaixa, float valor4aFaixa, float valor5aFaixa) {
+		this.valor1aFaixa = valor1aFaixa;
+		this.valor2aFaixa = valor2aFaixa;
+		this.valor3aFaixa = valor3aFaixa;
+		this.valor4aFaixa = valor4aFaixa;
+		this.valor5aFaixa = valor5aFaixa;
+	}
+}

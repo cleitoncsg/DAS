@@ -1,0 +1,14 @@
+package Refatoracao2_1aParte;
+
+public class Tributo {
+
+	Contribuinte c;
+	
+	public Tributo(Contribuinte c) {
+		
+		this.c = c;
+	}
+	
+	
+
+}

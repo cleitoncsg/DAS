@@ -1,0 +1,11 @@
+package hebertBaiola;
+
+public class Pessoa {
+	
+	private String nome = "Hebert";
+	
+	public String metodoPessoa(){
+		return nome;
+	}
+
+}

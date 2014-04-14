@@ -1,0 +1,9 @@
+package Refatoracao2_1aParte;
+
+public class Tributo {
+
+	public Tributo() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

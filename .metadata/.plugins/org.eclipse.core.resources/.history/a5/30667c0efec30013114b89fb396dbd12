@@ -1,0 +1,31 @@
+Duplicate code
+
+Same expression in two methods/classes
+
+https://github.com/sixtree/mule-module-xero/blob/1.x/src/main/java/au/com/sixtree/mule/modules/xero/XeroConnector.java
+
+https://github.com/whitequark/parser/pull/120/files
+
+https://github.com/boegel/MICA/pull/4/files
+
+http://sourceforge.net/apps/trac/supertuxkart/attachment/ticket/986/dup-resjl
+
+Long Method
+If you have a good name for a method you dont need to look at the body
+
+What is the ideal length of a method?
+http://programmers.stackexchange.com/questions/133404/what-is-the-ideal-length-of-a-method
+
+http://ecmendenhall.github.io/blog/blog/2013/06/03/refactoring-examples-long-methods/
+
+Example
+https://github.com/NicMcPhee/Machine-shop-simulator/blob/master/src/applications/MachineShopSimulator.java
+
+https://raw.githubusercontent.com/ankane/searchkick/186b28721956b84d6a951139855cf9716b6ba701/lib/searchkick/search.rbku
+
+Large Class
+
+http://en.wikipedia.org/wiki/God_object
+
+Example
+https://github.com/getnikola/nikola/blob/master/nikola/nikola.py

@@ -1,0 +1,72 @@
+package Refatoracao2_1aParte;
+
+import java.util.Enumeration;
+import java.util.Vector;
+
+public class ContribuiteTributo {
+	
+	private Contribuinte c;
+	private Vector<Rendimento> rendimentos;
+	private Vector<Deducao> deducoes;
+
+	public ContribuiteTributo(Contribuinte c) {
+		this.c = c;
+	}
+	
+	
+	float calculoTributo(){
+          c.totalDeducoes = 0; 
+		
+		Enumeration<Deducao> d = deducoes.elements();
+		while (d.hasMoreElements()) {
+			Deducao temp = d.nextElement();
+			c.totalDeducoes += temp.getValor();
+		}
+
+		c.baseDeCalculo = c.totalRendimentos - c.totalDeducoes; 
+		
+		float temp = c.baseDeCalculo - (float)4271.59; 
+		if (temp > 0) 
+			c.valor5aFaixa = temp * (float)0.275;
+		else {
+			c.valor5aFaixa = 0;
+		}
+		
+		temp = c.baseDeCalculo - (float)3418.60;
+		if (temp > 0){
+			if (c.baseDeCalculo > 4271.59) 
+				temp = (float)4271.59 - (float)3418.60; 
+			c.valor4aFaixa = temp * (float)0.225;
+		}			 
+		else {
+			c.valor4aFaixa = 0;
+			temp = 0;
+		}
+		
+		temp = c.baseDeCalculo - (float) temp - (float)2563.92;
+		if (temp > 0){
+			if (c.baseDeCalculo > 3418.60) 
+				temp = (float)3418.60 - (float)2563.92;
+			c.valor3aFaixa = temp * (float)0.15;
+		} 
+		else {
+			c.valor3aFaixa = 0;
+		}
+		
+		temp = c.baseDeCalculo - (float)1710.79;
+		if (temp > 0){
+			if (c.baseDeCalculo > 2563.91) 
+				temp = (float)2563.91 - (float)1710.79; 
+			 c.valor2aFaixa = temp * (float)0.075;
+		}
+		else {
+			c.valor2aFaixa = 0;
+		}
+		
+		temp = c.baseDeCalculo - (float)1710.79;
+		if (temp <= 0)
+			c.valor1aFaixa = 0; 
+		
+		return (c.valor5aFaixa + c.valor4aFaixa + c.valor3aFaixa + c.valor2aFaixa + c.valor1aFaixa);
+	}
+}

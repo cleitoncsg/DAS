@@ -1,0 +1,23 @@
+package Refatoracao2_1aParte;
+
+import java.util.Vector;
+
+public class ContribuinteTributo {
+	public String nome;
+	public CPF cpf;
+	public float totalRendimentos;
+	public float totalRendimentosTributaveis;
+	public float totalRendimentosIsentos;
+	public float totalDeducoes;
+	public float baseDeCalculo;
+	public float valor1aFaixa;
+	public float valor2aFaixa;
+	public float valor3aFaixa;
+	public float valor4aFaixa;
+	public float valor5aFaixa;
+	public Vector<Rendimento> rendimentos;
+	public Vector<Deducao> deducoes;
+
+	public ContribuinteTributo() {
+	}
+}

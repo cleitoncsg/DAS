@@ -2,8 +2,8 @@
 <section name="Workbench">
 	<item value="true" key="Replace"/>
 	<item value="false" key="delegateUpdating"/>
-	<item value="false" key="InstanceOf"/>
 	<item value="/home/cleitongomes/Transferências" key="org.eclipse.jdt.ui.lastextjar"/>
+	<item value="false" key="InstanceOf"/>
 	<section name="OptionalMessageDialog.hide.">
 		<item value="true" key="org.eclipse.jdt.ui.typecomment.deprecated"/>
 	</section>
@@ -35,8 +35,8 @@
 		<section name="DialogBoundsSettings">
 			<item value="600" key="DIALOG_WIDTH"/>
 			<item value="13" key="DIALOG_Y_ORIGIN"/>
-			<item value="6" key="DIALOG_X_ORIGIN"/>
 			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="6" key="DIALOG_X_ORIGIN"/>
 			<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
 		</section>
 	</section>
@@ -49,13 +49,13 @@
 	</section>
 	<section name="JavaElementSearchActions">
 	</section>
-	<section name="org.eclipse.ltk.ui.refactoring.settings">
+	<section name="RenameInformationPopup">
 	</section>
 	<section name="NewClassWizardPage">
 		<item value="false" key="create_constructor"/>
-		<item value="true" key="create_unimplemented"/>
 		<item value="false" key="create_main"/>
+		<item value="true" key="create_unimplemented"/>
 	</section>
-	<section name="RenameInformationPopup">
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
 	</section>
 </section>

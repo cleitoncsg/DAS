@@ -1,0 +1,9 @@
+package tenisGamme;
+
+public class TennisGame2 {
+
+	public TennisGame2() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,13 @@
+package hebertBaitolaRefatorado;
+
+public class PessoaAuxiliar {
+	public String nome = "Hebert";
+
+	public PessoaAuxiliar() {
+	}
+	
+	public String metodoPessoaAuxiliar(){
+		return nome;
+	}
+
+}

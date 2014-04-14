@@ -5,5 +5,12 @@
 <fullyQualifiedTypeName name="FabricaAbstrata"/>
 <fullyQualifiedTypeName name="Fabrica1"/>
 <fullyQualifiedTypeName name="Fabrica2"/>
+<fullyQualifiedTypeName name="java.util.Vector"/>
+<fullyQualifiedTypeName name="Refatoracao2_1aParte.CalculoDeImposto"/>
+<fullyQualifiedTypeName name="java.util.Enumeration"/>
+<fullyQualifiedTypeName name="Refatoracao2_1aParte.Contribuinte"/>
 <fullyQualifiedTypeName name="Refatoracao_1.Contribuinte"/>
+<fullyQualifiedTypeName name="Refatoracao_1.CalculoDeImposto"/>
+<fullyQualifiedTypeName name="hebertBaiola.Pessoa"/>
+<fullyQualifiedTypeName name="hebertBaitolaRefatorado.PessoaAuxiliar"/>
 </qualifiedTypeNameHistroy>

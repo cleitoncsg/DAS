@@ -1,0 +1,22 @@
+package hebertBaitolaRefatorado;
+
+import static org.junit.Assert.*;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+
+public class PessoaTest {
+	
+	private Pessoa pessoa;
+
+	@Before
+	public void setUp() throws Exception {
+		pessoa = new Pessoa();
+	}
+
+	@Test
+	public void testMetodoPessoa() {
+		assertTrue(pessoa.metodoPessoa() == "Hebert");
+	}
+}

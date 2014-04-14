@@ -1,0 +1,14 @@
+package hebertBaitolaRefatorado;
+
+public class Pessoa {
+	
+	private String nome = "Hebert";
+	
+	public Pessoa(){
+		
+	}
+	public String metodoPessoa(){
+		return nome;
+	}
+
+}

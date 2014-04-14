@@ -1,0 +1,2696 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="treinoProvaUm" project="treinoProvaUm" tests="518" started="518" failures="0" errors="42" ignored="0">
+  <testsuite name="Refatoracao2_1aParte.TestesElementares" incomplete="true">
+    <testsuite name="Refatoracao2_1aParte.ContribuinteTest" incomplete="true">
+      <testcase name="testContribuinte" classname="Refatoracao2_1aParte.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirDeducao" classname="Refatoracao2_1aParte.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarRendimento" classname="Refatoracao2_1aParte.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarDeducao" classname="Refatoracao2_1aParte.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirRendimento" classname="Refatoracao2_1aParte.ContribuinteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte.DeducaoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="Refatoracao2_1aParte.DeducaoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="Refatoracao2_1aParte.DeducaoTest" incomplete="true"/>
+      <testcase name="testDeducao" classname="Refatoracao2_1aParte.DeducaoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte.DependenteTest" incomplete="true">
+      <testcase name="testGetValor" classname="Refatoracao2_1aParte.DependenteTest" incomplete="true"/>
+      <testcase name="testDependente" classname="Refatoracao2_1aParte.DependenteTest" incomplete="true"/>
+      <testcase name="testGetNome" classname="Refatoracao2_1aParte.DependenteTest" incomplete="true"/>
+      <testcase name="testGetCpf" classname="Refatoracao2_1aParte.DependenteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte.RendimentoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="Refatoracao2_1aParte.RendimentoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="Refatoracao2_1aParte.RendimentoTest" incomplete="true"/>
+      <testcase name="testIsTributavel" classname="Refatoracao2_1aParte.RendimentoTest" incomplete="true"/>
+      <testcase name="testRendimento" classname="Refatoracao2_1aParte.RendimentoTest" incomplete="true"/>
+    </testsuite>
+  </testsuite>
+  <testsuite name="Refatoracao2_1aParte_FeitoEmSala.DeducaoTest" incomplete="true">
+    <testcase name="testGetDescricao" classname="Refatoracao2_1aParte_FeitoEmSala.DeducaoTest" incomplete="true"/>
+    <testcase name="testGetValor" classname="Refatoracao2_1aParte_FeitoEmSala.DeducaoTest" incomplete="true"/>
+    <testcase name="testDeducao" classname="Refatoracao2_1aParte_FeitoEmSala.DeducaoTest" incomplete="true"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_2aParte.DependenteTest" incomplete="true">
+    <testcase name="testGetValor" classname="Refatoracao2_2aParte.DependenteTest" incomplete="true"/>
+    <testcase name="testDependente" classname="Refatoracao2_2aParte.DependenteTest" incomplete="true"/>
+    <testcase name="testGetNome" classname="Refatoracao2_2aParte.DependenteTest" incomplete="true"/>
+    <testcase name="testGetCpf" classname="Refatoracao2_2aParte.DependenteTest" incomplete="true"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_2aParte.ContribuinteParametrizado" incomplete="true">
+    <testcase name="test" classname="Refatoracao2_2aParte.ContribuinteParametrizado" incomplete="true"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_1aParte.ContribuinteIsentoTest" incomplete="true">
+    <testcase name="test" classname="Refatoracao2_1aParte.ContribuinteIsentoTest" incomplete="true"/>
+  </testsuite>
+  <testsuite name="Refatoracao3.Contribuinte4aFaixaTest" incomplete="true">
+    <testcase name="test" classname="Refatoracao3.Contribuinte4aFaixaTest" incomplete="true"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_2aParte.Contribuinte2aFaixaTest" incomplete="true">
+    <testcase name="test" classname="Refatoracao2_2aParte.Contribuinte2aFaixaTest" incomplete="true"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_1aParte_FeitoEmSala.Contribuinte5aFaixaTest" incomplete="true">
+    <testcase name="test" classname="Refatoracao2_1aParte_FeitoEmSala.Contribuinte5aFaixaTest" incomplete="true"/>
+  </testsuite>
+  <testsuite name="RendimentoTest" incomplete="true">
+    <testcase name="testGetDescricao" classname="RendimentoTest" incomplete="true"/>
+    <testcase name="testGetValor" classname="RendimentoTest" incomplete="true"/>
+    <testcase name="testIsTributavel" classname="RendimentoTest" incomplete="true"/>
+    <testcase name="testRendimento" classname="RendimentoTest" incomplete="true"/>
+  </testsuite>
+  <testsuite name="SuiteDeTestes" incomplete="true">
+    <testsuite name="Contribuinte2aFaixaTest" incomplete="true">
+      <testcase name="test" classname="Contribuinte2aFaixaTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Contribuinte3aFaixaTest" incomplete="true">
+      <testcase name="test" classname="Contribuinte3aFaixaTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Contribuinte4aFaixaTest" incomplete="true">
+      <testcase name="test" classname="Contribuinte4aFaixaTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Contribuinte5aFaixaTest" incomplete="true">
+      <testcase name="test" classname="Contribuinte5aFaixaTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="ContribuinteIsentoTest" incomplete="true">
+      <testcase name="test" classname="ContribuinteIsentoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="ContribuinteParametrizado" incomplete="true">
+      <testcase name="test" classname="ContribuinteParametrizado" incomplete="true"/>
+    </testsuite>
+    <testsuite name="ContribuinteTest" incomplete="true">
+      <testcase name="testContribuinte" classname="ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirDeducao" classname="ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarRendimento" classname="ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarDeducao" classname="ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirRendimento" classname="ContribuinteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="DeducaoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="DeducaoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="DeducaoTest" incomplete="true"/>
+      <testcase name="testDeducao" classname="DeducaoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="DependenteTest" incomplete="true">
+      <testcase name="testGetValor" classname="DependenteTest" incomplete="true"/>
+      <testcase name="testDependente" classname="DependenteTest" incomplete="true"/>
+      <testcase name="testGetNome" classname="DependenteTest" incomplete="true"/>
+      <testcase name="testGetCpf" classname="DependenteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="ImpostoTeste" incomplete="true">
+      <testcase name="testeBaseDeCalculo" classname="ImpostoTeste" incomplete="true"/>
+      <testcase name="testeValorRendimentosIsentos" classname="ImpostoTeste" incomplete="true"/>
+      <testcase name="testeValorRendimentosTributaveis" classname="ImpostoTeste" incomplete="true"/>
+      <testcase name="testeValorDeducoes" classname="ImpostoTeste" incomplete="true"/>
+      <testcase name="testeValorRendimentos" classname="ImpostoTeste" incomplete="true"/>
+    </testsuite>
+    <testsuite name="RendimentoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="RendimentoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="RendimentoTest" incomplete="true"/>
+      <testcase name="testIsTributavel" classname="RendimentoTest" incomplete="true"/>
+      <testcase name="testRendimento" classname="RendimentoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="TestesElementares" incomplete="true">
+      <testsuite name="ContribuinteTest" incomplete="true">
+        <testcase name="testContribuinte" classname="ContribuinteTest" incomplete="true"/>
+        <testcase name="testExcluirDeducao" classname="ContribuinteTest" incomplete="true"/>
+        <testcase name="testAdicionarRendimento" classname="ContribuinteTest" incomplete="true"/>
+        <testcase name="testAdicionarDeducao" classname="ContribuinteTest" incomplete="true"/>
+        <testcase name="testExcluirRendimento" classname="ContribuinteTest" incomplete="true"/>
+      </testsuite>
+      <testsuite name="DeducaoTest" incomplete="true">
+        <testcase name="testGetDescricao" classname="DeducaoTest" incomplete="true"/>
+        <testcase name="testGetValor" classname="DeducaoTest" incomplete="true"/>
+        <testcase name="testDeducao" classname="DeducaoTest" incomplete="true"/>
+      </testsuite>
+      <testsuite name="DependenteTest" incomplete="true">
+        <testcase name="testGetValor" classname="DependenteTest" incomplete="true"/>
+        <testcase name="testDependente" classname="DependenteTest" incomplete="true"/>
+        <testcase name="testGetNome" classname="DependenteTest" incomplete="true"/>
+        <testcase name="testGetCpf" classname="DependenteTest" incomplete="true"/>
+      </testsuite>
+      <testsuite name="RendimentoTest" incomplete="true">
+        <testcase name="testGetDescricao" classname="RendimentoTest" incomplete="true"/>
+        <testcase name="testGetValor" classname="RendimentoTest" incomplete="true"/>
+        <testcase name="testIsTributavel" classname="RendimentoTest" incomplete="true"/>
+        <testcase name="testRendimento" classname="RendimentoTest" incomplete="true"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+  <testsuite name="TestesElementares">
+    <testsuite name="ContribuinteTest" incomplete="true">
+      <testcase name="testContribuinte" classname="ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirDeducao" classname="ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarRendimento" classname="ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarDeducao" classname="ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirRendimento" classname="ContribuinteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="DeducaoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="DeducaoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="DeducaoTest" incomplete="true"/>
+      <testcase name="testDeducao" classname="DeducaoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="DependenteTest" incomplete="true">
+      <testcase name="testGetValor" classname="DependenteTest" incomplete="true"/>
+      <testcase name="testDependente" classname="DependenteTest" incomplete="true"/>
+      <testcase name="testGetNome" classname="DependenteTest" incomplete="true"/>
+      <testcase name="testGetCpf" classname="DependenteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="RendimentoTest" time="0.001">
+      <testcase name="testGetDescricao" classname="RendimentoTest" time="0.0"/>
+      <testcase name="testGetValor" classname="RendimentoTest" time="0.0"/>
+      <testcase name="testIsTributavel" classname="RendimentoTest" time="0.0"/>
+      <testcase name="testRendimento" classname="RendimentoTest" time="0.001"/>
+    </testsuite>
+  </testsuite>
+  <testsuite name="Refatoracao3.ContribuinteIsentoTest" incomplete="true">
+    <testcase name="test" classname="Refatoracao3.ContribuinteIsentoTest" incomplete="true"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_1aParte.ImpostoTeste" incomplete="true">
+    <testcase name="testeBaseDeCalculo" classname="Refatoracao2_1aParte.ImpostoTeste" incomplete="true"/>
+    <testcase name="testeValorRendimentosIsentos" classname="Refatoracao2_1aParte.ImpostoTeste" incomplete="true"/>
+    <testcase name="testeValorRendimentosTributaveis" classname="Refatoracao2_1aParte.ImpostoTeste" incomplete="true"/>
+    <testcase name="testeValorDeducoes" classname="Refatoracao2_1aParte.ImpostoTeste" incomplete="true"/>
+    <testcase name="testeValorRendimentos" classname="Refatoracao2_1aParte.ImpostoTeste" incomplete="true"/>
+  </testsuite>
+  <testsuite name="Refatoracao3.Contribuinte5aFaixaTest" incomplete="true">
+    <testcase name="test" classname="Refatoracao3.Contribuinte5aFaixaTest" incomplete="true"/>
+  </testsuite>
+  <testsuite name="ContribuinteTest" time="0.001">
+    <testcase name="testContribuinte" classname="ContribuinteTest" time="0.001">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ContribuinteTest.setUp(ContribuinteTest.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ContribuinteTest.setUp(ContribuinteTest.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ContribuinteTest.setUp(ContribuinteTest.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ContribuinteTest.setUp(ContribuinteTest.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+    </testcase>
+    <testcase name="testExcluirDeducao" classname="ContribuinteTest" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ContribuinteTest.setUp(ContribuinteTest.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ContribuinteTest.setUp(ContribuinteTest.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ContribuinteTest.setUp(ContribuinteTest.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ContribuinteTest.setUp(ContribuinteTest.java:23)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+    </testcase>
+    <testcase name="testAdicionarRendimento" classname="ContribuinteTest" time="0.001">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ContribuinteTest.setUp(ContribuinteTest.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ContribuinteTest.setUp(ContribuinteTest.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ContribuinteTest.setUp(ContribuinteTest.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ContribuinteTest.setUp(ContribuinteTest.java:23)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+    </testcase>
+    <testcase name="testAdicionarDeducao" classname="ContribuinteTest" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ContribuinteTest.setUp(ContribuinteTest.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ContribuinteTest.setUp(ContribuinteTest.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ContribuinteTest.setUp(ContribuinteTest.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ContribuinteTest.setUp(ContribuinteTest.java:23)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+    </testcase>
+    <testcase name="testExcluirRendimento" classname="ContribuinteTest" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ContribuinteTest.setUp(ContribuinteTest.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ContribuinteTest.setUp(ContribuinteTest.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ContribuinteTest.setUp(ContribuinteTest.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ContribuinteTest.setUp(ContribuinteTest.java:23)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+    </testcase>
+  </testsuite>
+  <testsuite name="Contribuinte5aFaixaTest" time="0.0">
+    <testcase name="test" classname="Contribuinte5aFaixaTest" time="0.001">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at Contribuinte5aFaixaTest.&lt;init&gt;(Contribuinte5aFaixaTest.java:11)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at Contribuinte5aFaixaTest.&lt;init&gt;(Contribuinte5aFaixaTest.java:11)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+    </testcase>
+  </testsuite>
+  <testsuite name="Refatoracao2_1aParte.ContribuinteParametrizado" incomplete="true">
+    <testcase name="test" classname="Refatoracao2_1aParte.ContribuinteParametrizado" incomplete="true"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_1aParte_FeitoEmSala.SuiteDeTestes" incomplete="true">
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.Contribuinte2aFaixaTest" incomplete="true">
+      <testcase name="test" classname="Refatoracao2_1aParte_FeitoEmSala.Contribuinte2aFaixaTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.Contribuinte3aFaixaTest" incomplete="true">
+      <testcase name="test" classname="Refatoracao2_1aParte_FeitoEmSala.Contribuinte3aFaixaTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.Contribuinte4aFaixaTest" incomplete="true">
+      <testcase name="test" classname="Refatoracao2_1aParte_FeitoEmSala.Contribuinte4aFaixaTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.Contribuinte5aFaixaTest" time="0.0">
+      <testcase name="test" classname="Refatoracao2_1aParte_FeitoEmSala.Contribuinte5aFaixaTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.ContribuinteIsentoTest" incomplete="true">
+      <testcase name="test" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteIsentoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.ContribuinteParametrizado" incomplete="true">
+      <testcase name="test" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteParametrizado" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" incomplete="true">
+      <testcase name="testContribuinte" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirDeducao" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarRendimento" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarDeducao" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirRendimento" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.DeducaoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="Refatoracao2_1aParte_FeitoEmSala.DeducaoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="Refatoracao2_1aParte_FeitoEmSala.DeducaoTest" incomplete="true"/>
+      <testcase name="testDeducao" classname="Refatoracao2_1aParte_FeitoEmSala.DeducaoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" incomplete="true">
+      <testcase name="testGetValor" classname="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" incomplete="true"/>
+      <testcase name="testDependente" classname="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" incomplete="true"/>
+      <testcase name="testGetNome" classname="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" incomplete="true"/>
+      <testcase name="testGetCpf" classname="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.ImpostoTeste" incomplete="true">
+      <testcase name="testeBaseDeCalculo" classname="Refatoracao2_1aParte_FeitoEmSala.ImpostoTeste" incomplete="true"/>
+      <testcase name="testeValorRendimentosIsentos" classname="Refatoracao2_1aParte_FeitoEmSala.ImpostoTeste" incomplete="true"/>
+      <testcase name="testeValorRendimentosTributaveis" classname="Refatoracao2_1aParte_FeitoEmSala.ImpostoTeste" incomplete="true"/>
+      <testcase name="testeValorDeducoes" classname="Refatoracao2_1aParte_FeitoEmSala.ImpostoTeste" incomplete="true"/>
+      <testcase name="testeValorRendimentos" classname="Refatoracao2_1aParte_FeitoEmSala.ImpostoTeste" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" incomplete="true"/>
+      <testcase name="testIsTributavel" classname="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" incomplete="true"/>
+      <testcase name="testRendimento" classname="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.TestesElementares" incomplete="true">
+      <testsuite name="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" incomplete="true">
+        <testcase name="testContribuinte" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" incomplete="true"/>
+        <testcase name="testExcluirDeducao" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" incomplete="true"/>
+        <testcase name="testAdicionarRendimento" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" incomplete="true"/>
+        <testcase name="testAdicionarDeducao" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" incomplete="true"/>
+        <testcase name="testExcluirRendimento" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" incomplete="true"/>
+      </testsuite>
+      <testsuite name="Refatoracao2_1aParte_FeitoEmSala.DeducaoTest" incomplete="true">
+        <testcase name="testGetDescricao" classname="Refatoracao2_1aParte_FeitoEmSala.DeducaoTest" incomplete="true"/>
+        <testcase name="testGetValor" classname="Refatoracao2_1aParte_FeitoEmSala.DeducaoTest" incomplete="true"/>
+        <testcase name="testDeducao" classname="Refatoracao2_1aParte_FeitoEmSala.DeducaoTest" incomplete="true"/>
+      </testsuite>
+      <testsuite name="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" incomplete="true">
+        <testcase name="testGetValor" classname="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" incomplete="true"/>
+        <testcase name="testDependente" classname="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" incomplete="true"/>
+        <testcase name="testGetNome" classname="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" incomplete="true"/>
+        <testcase name="testGetCpf" classname="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" incomplete="true"/>
+      </testsuite>
+      <testsuite name="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" incomplete="true">
+        <testcase name="testGetDescricao" classname="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" incomplete="true"/>
+        <testcase name="testGetValor" classname="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" incomplete="true"/>
+        <testcase name="testIsTributavel" classname="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" incomplete="true"/>
+        <testcase name="testRendimento" classname="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" incomplete="true"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+  <testsuite name="Contribuinte3aFaixaTest" time="0.011">
+    <testcase name="test" classname="Contribuinte3aFaixaTest" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at Contribuinte3aFaixaTest.&lt;init&gt;(Contribuinte3aFaixaTest.java:11)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at Contribuinte3aFaixaTest.&lt;init&gt;(Contribuinte3aFaixaTest.java:11)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+    </testcase>
+  </testsuite>
+  <testsuite name="Refatoracao2_1aParte.Contribuinte4aFaixaTest" incomplete="true">
+    <testcase name="test" classname="Refatoracao2_1aParte.Contribuinte4aFaixaTest" incomplete="true"/>
+  </testsuite>
+  <testsuite name="DeducaoTest" time="0.0">
+    <testcase name="testGetDescricao" classname="DeducaoTest" time="0.0"/>
+    <testcase name="testGetValor" classname="DeducaoTest" time="0.0"/>
+    <testcase name="testDeducao" classname="DeducaoTest" time="0.001"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" incomplete="true">
+    <testcase name="testGetValor" classname="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" incomplete="true"/>
+    <testcase name="testDependente" classname="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" incomplete="true"/>
+    <testcase name="testGetNome" classname="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" incomplete="true"/>
+    <testcase name="testGetCpf" classname="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" incomplete="true"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_1aParte_FeitoEmSala.ContribuinteParametrizado" time="0.001">
+    <testcase name="test" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteParametrizado" time="0.001"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_1aParte.RendimentoTest" incomplete="true">
+    <testcase name="testGetDescricao" classname="Refatoracao2_1aParte.RendimentoTest" incomplete="true"/>
+    <testcase name="testGetValor" classname="Refatoracao2_1aParte.RendimentoTest" incomplete="true"/>
+    <testcase name="testIsTributavel" classname="Refatoracao2_1aParte.RendimentoTest" incomplete="true"/>
+    <testcase name="testRendimento" classname="Refatoracao2_1aParte.RendimentoTest" incomplete="true"/>
+  </testsuite>
+  <testsuite name="hebertBaitolaRefatorado.PessoaTest" time="0.001">
+    <testcase name="testMetodoPessoa" classname="hebertBaitolaRefatorado.PessoaTest" time="0.001"/>
+  </testsuite>
+  <testsuite name="Refatoracao_1.ContribuinteTest" incomplete="true">
+    <testcase name="testContribuinte" classname="Refatoracao_1.ContribuinteTest" incomplete="true"/>
+    <testcase name="testExcluirDeducao" classname="Refatoracao_1.ContribuinteTest" incomplete="true"/>
+    <testcase name="testAdicionarRendimento" classname="Refatoracao_1.ContribuinteTest" incomplete="true"/>
+    <testcase name="testAdicionarDeducao" classname="Refatoracao_1.ContribuinteTest" incomplete="true"/>
+    <testcase name="testExcluirRendimento" classname="Refatoracao_1.ContribuinteTest" incomplete="true"/>
+  </testsuite>
+  <testsuite name="Refatoracao3.SuiteDeTestes" incomplete="true">
+    <testsuite name="Refatoracao3.Contribuinte2aFaixaTest" incomplete="true">
+      <testcase name="test" classname="Refatoracao3.Contribuinte2aFaixaTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao3.Contribuinte3aFaixaTest" incomplete="true">
+      <testcase name="test" classname="Refatoracao3.Contribuinte3aFaixaTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao3.Contribuinte4aFaixaTest" time="0.0">
+      <testcase name="test" classname="Refatoracao3.Contribuinte4aFaixaTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao3.Contribuinte5aFaixaTest" time="0.001">
+      <testcase name="test" classname="Refatoracao3.Contribuinte5aFaixaTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao3.ContribuinteIsentoTest" time="0.0">
+      <testcase name="test" classname="Refatoracao3.ContribuinteIsentoTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao3.ContribuinteParametrizado" incomplete="true">
+      <testcase name="test" classname="Refatoracao3.ContribuinteParametrizado" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao3.ContribuinteTest" incomplete="true">
+      <testcase name="testContribuinte" classname="Refatoracao3.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirDeducao" classname="Refatoracao3.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarRendimento" classname="Refatoracao3.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarDeducao" classname="Refatoracao3.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirRendimento" classname="Refatoracao3.ContribuinteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao3.DeducaoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="Refatoracao3.DeducaoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="Refatoracao3.DeducaoTest" incomplete="true"/>
+      <testcase name="testDeducao" classname="Refatoracao3.DeducaoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao3.DependenteTest" incomplete="true">
+      <testcase name="testGetValor" classname="Refatoracao3.DependenteTest" incomplete="true"/>
+      <testcase name="testDependente" classname="Refatoracao3.DependenteTest" incomplete="true"/>
+      <testcase name="testGetNome" classname="Refatoracao3.DependenteTest" incomplete="true"/>
+      <testcase name="testGetCpf" classname="Refatoracao3.DependenteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao3.ImpostoTeste" incomplete="true">
+      <testcase name="testeBaseDeCalculo" classname="Refatoracao3.ImpostoTeste" incomplete="true"/>
+      <testcase name="testeValorRendimentosIsentos" classname="Refatoracao3.ImpostoTeste" incomplete="true"/>
+      <testcase name="testeValorRendimentosTributaveis" classname="Refatoracao3.ImpostoTeste" incomplete="true"/>
+      <testcase name="testeValorDeducoes" classname="Refatoracao3.ImpostoTeste" incomplete="true"/>
+      <testcase name="testeValorRendimentos" classname="Refatoracao3.ImpostoTeste" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao3.RendimentoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="Refatoracao3.RendimentoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="Refatoracao3.RendimentoTest" incomplete="true"/>
+      <testcase name="testIsTributavel" classname="Refatoracao3.RendimentoTest" incomplete="true"/>
+      <testcase name="testRendimento" classname="Refatoracao3.RendimentoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao3.TestesElementares" incomplete="true">
+      <testsuite name="Refatoracao3.ContribuinteTest" incomplete="true">
+        <testcase name="testContribuinte" classname="Refatoracao3.ContribuinteTest" incomplete="true"/>
+        <testcase name="testExcluirDeducao" classname="Refatoracao3.ContribuinteTest" incomplete="true"/>
+        <testcase name="testAdicionarRendimento" classname="Refatoracao3.ContribuinteTest" incomplete="true"/>
+        <testcase name="testAdicionarDeducao" classname="Refatoracao3.ContribuinteTest" incomplete="true"/>
+        <testcase name="testExcluirRendimento" classname="Refatoracao3.ContribuinteTest" incomplete="true"/>
+      </testsuite>
+      <testsuite name="Refatoracao3.DeducaoTest" incomplete="true">
+        <testcase name="testGetDescricao" classname="Refatoracao3.DeducaoTest" incomplete="true"/>
+        <testcase name="testGetValor" classname="Refatoracao3.DeducaoTest" incomplete="true"/>
+        <testcase name="testDeducao" classname="Refatoracao3.DeducaoTest" incomplete="true"/>
+      </testsuite>
+      <testsuite name="Refatoracao3.DependenteTest" incomplete="true">
+        <testcase name="testGetValor" classname="Refatoracao3.DependenteTest" incomplete="true"/>
+        <testcase name="testDependente" classname="Refatoracao3.DependenteTest" incomplete="true"/>
+        <testcase name="testGetNome" classname="Refatoracao3.DependenteTest" incomplete="true"/>
+        <testcase name="testGetCpf" classname="Refatoracao3.DependenteTest" incomplete="true"/>
+      </testsuite>
+      <testsuite name="Refatoracao3.RendimentoTest" incomplete="true">
+        <testcase name="testGetDescricao" classname="Refatoracao3.RendimentoTest" incomplete="true"/>
+        <testcase name="testGetValor" classname="Refatoracao3.RendimentoTest" incomplete="true"/>
+        <testcase name="testIsTributavel" classname="Refatoracao3.RendimentoTest" incomplete="true"/>
+        <testcase name="testRendimento" classname="Refatoracao3.RendimentoTest" incomplete="true"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+  <testsuite name="Refatoracao2_1aParte_FeitoEmSala.TestesElementares" incomplete="true">
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" incomplete="true">
+      <testcase name="testContribuinte" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirDeducao" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarRendimento" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarDeducao" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirRendimento" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.DeducaoTest" time="0.0">
+      <testcase name="testGetDescricao" classname="Refatoracao2_1aParte_FeitoEmSala.DeducaoTest" time="0.001"/>
+      <testcase name="testGetValor" classname="Refatoracao2_1aParte_FeitoEmSala.DeducaoTest" time="0.0"/>
+      <testcase name="testDeducao" classname="Refatoracao2_1aParte_FeitoEmSala.DeducaoTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" time="0.001">
+      <testcase name="testGetValor" classname="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" time="0.0"/>
+      <testcase name="testDependente" classname="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" time="0.0"/>
+      <testcase name="testGetNome" classname="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" time="0.001"/>
+      <testcase name="testGetCpf" classname="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" incomplete="true"/>
+      <testcase name="testIsTributavel" classname="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" incomplete="true"/>
+      <testcase name="testRendimento" classname="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" incomplete="true"/>
+    </testsuite>
+  </testsuite>
+  <testsuite name="Refatoracao2_1aParte_FeitoEmSala.Contribuinte4aFaixaTest" time="0.0">
+    <testcase name="test" classname="Refatoracao2_1aParte_FeitoEmSala.Contribuinte4aFaixaTest" time="0.0"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_2aParte.Contribuinte3aFaixaTest" incomplete="true">
+    <testcase name="test" classname="Refatoracao2_2aParte.Contribuinte3aFaixaTest" incomplete="true"/>
+  </testsuite>
+  <testsuite name="Refatoracao_1.Contribuinte4aFaixaTest" incomplete="true">
+    <testcase name="test" classname="Refatoracao_1.Contribuinte4aFaixaTest" incomplete="true"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_1aParte_FeitoEmSala.ImpostoTeste" time="0.001">
+    <testcase name="testeBaseDeCalculo" classname="Refatoracao2_1aParte_FeitoEmSala.ImpostoTeste" time="0.0"/>
+    <testcase name="testeValorRendimentosIsentos" classname="Refatoracao2_1aParte_FeitoEmSala.ImpostoTeste" time="0.001"/>
+    <testcase name="testeValorRendimentosTributaveis" classname="Refatoracao2_1aParte_FeitoEmSala.ImpostoTeste" time="0.0"/>
+    <testcase name="testeValorDeducoes" classname="Refatoracao2_1aParte_FeitoEmSala.ImpostoTeste" time="0.0"/>
+    <testcase name="testeValorRendimentos" classname="Refatoracao2_1aParte_FeitoEmSala.ImpostoTeste" time="0.0"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_1aParte.DependenteTest" incomplete="true">
+    <testcase name="testGetValor" classname="Refatoracao2_1aParte.DependenteTest" incomplete="true"/>
+    <testcase name="testDependente" classname="Refatoracao2_1aParte.DependenteTest" incomplete="true"/>
+    <testcase name="testGetNome" classname="Refatoracao2_1aParte.DependenteTest" incomplete="true"/>
+    <testcase name="testGetCpf" classname="Refatoracao2_1aParte.DependenteTest" incomplete="true"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_1aParte_FeitoEmSala.ContribuinteIsentoTest" time="0.0">
+    <testcase name="test" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteIsentoTest" time="0.0"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_1aParte.ContribuinteTest" incomplete="true">
+    <testcase name="testContribuinte" classname="Refatoracao2_1aParte.ContribuinteTest" incomplete="true"/>
+    <testcase name="testExcluirDeducao" classname="Refatoracao2_1aParte.ContribuinteTest" incomplete="true"/>
+    <testcase name="testAdicionarRendimento" classname="Refatoracao2_1aParte.ContribuinteTest" incomplete="true"/>
+    <testcase name="testAdicionarDeducao" classname="Refatoracao2_1aParte.ContribuinteTest" incomplete="true"/>
+    <testcase name="testExcluirRendimento" classname="Refatoracao2_1aParte.ContribuinteTest" incomplete="true"/>
+  </testsuite>
+  <testsuite name="Refatoracao3.ContribuinteParametrizado" time="0.001">
+    <testcase name="test" classname="Refatoracao3.ContribuinteParametrizado" time="0.002"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_2aParte.TestesElementares" incomplete="true">
+    <testsuite name="Refatoracao2_2aParte.ContribuinteTest" incomplete="true">
+      <testcase name="testContribuinte" classname="Refatoracao2_2aParte.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirDeducao" classname="Refatoracao2_2aParte.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarRendimento" classname="Refatoracao2_2aParte.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarDeducao" classname="Refatoracao2_2aParte.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirRendimento" classname="Refatoracao2_2aParte.ContribuinteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_2aParte.DeducaoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="Refatoracao2_2aParte.DeducaoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="Refatoracao2_2aParte.DeducaoTest" incomplete="true"/>
+      <testcase name="testDeducao" classname="Refatoracao2_2aParte.DeducaoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_2aParte.DependenteTest" incomplete="true">
+      <testcase name="testGetValor" classname="Refatoracao2_2aParte.DependenteTest" incomplete="true"/>
+      <testcase name="testDependente" classname="Refatoracao2_2aParte.DependenteTest" incomplete="true"/>
+      <testcase name="testGetNome" classname="Refatoracao2_2aParte.DependenteTest" incomplete="true"/>
+      <testcase name="testGetCpf" classname="Refatoracao2_2aParte.DependenteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_2aParte.RendimentoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="Refatoracao2_2aParte.RendimentoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="Refatoracao2_2aParte.RendimentoTest" incomplete="true"/>
+      <testcase name="testIsTributavel" classname="Refatoracao2_2aParte.RendimentoTest" incomplete="true"/>
+      <testcase name="testRendimento" classname="Refatoracao2_2aParte.RendimentoTest" incomplete="true"/>
+    </testsuite>
+  </testsuite>
+  <testsuite name="Refatoracao2_2aParte.ContribuinteIsentoTest" incomplete="true">
+    <testcase name="test" classname="Refatoracao2_2aParte.ContribuinteIsentoTest" incomplete="true"/>
+  </testsuite>
+  <testsuite name="Refatoracao3.ImpostoTeste" time="0.001">
+    <testcase name="testeBaseDeCalculo" classname="Refatoracao3.ImpostoTeste" time="0.001"/>
+    <testcase name="testeValorRendimentosIsentos" classname="Refatoracao3.ImpostoTeste" time="0.0"/>
+    <testcase name="testeValorRendimentosTributaveis" classname="Refatoracao3.ImpostoTeste" time="0.0"/>
+    <testcase name="testeValorDeducoes" classname="Refatoracao3.ImpostoTeste" time="0.0"/>
+    <testcase name="testeValorRendimentos" classname="Refatoracao3.ImpostoTeste" time="0.004"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_2aParte.SuiteDeTestes" incomplete="true">
+    <testsuite name="Refatoracao2_2aParte.Contribuinte2aFaixaTest" time="0.0">
+      <testcase name="test" classname="Refatoracao2_2aParte.Contribuinte2aFaixaTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_2aParte.Contribuinte3aFaixaTest" time="0.001">
+      <testcase name="test" classname="Refatoracao2_2aParte.Contribuinte3aFaixaTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_2aParte.Contribuinte4aFaixaTest" incomplete="true">
+      <testcase name="test" classname="Refatoracao2_2aParte.Contribuinte4aFaixaTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_2aParte.Contribuinte5aFaixaTest" incomplete="true">
+      <testcase name="test" classname="Refatoracao2_2aParte.Contribuinte5aFaixaTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_2aParte.ContribuinteIsentoTest" time="0.0">
+      <testcase name="test" classname="Refatoracao2_2aParte.ContribuinteIsentoTest" time="0.001"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_2aParte.ContribuinteParametrizado" time="0.0">
+      <testcase name="test" classname="Refatoracao2_2aParte.ContribuinteParametrizado" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_2aParte.ContribuinteTest" incomplete="true">
+      <testcase name="testContribuinte" classname="Refatoracao2_2aParte.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirDeducao" classname="Refatoracao2_2aParte.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarRendimento" classname="Refatoracao2_2aParte.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarDeducao" classname="Refatoracao2_2aParte.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirRendimento" classname="Refatoracao2_2aParte.ContribuinteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_2aParte.DeducaoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="Refatoracao2_2aParte.DeducaoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="Refatoracao2_2aParte.DeducaoTest" incomplete="true"/>
+      <testcase name="testDeducao" classname="Refatoracao2_2aParte.DeducaoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_2aParte.DependenteTest" incomplete="true">
+      <testcase name="testGetValor" classname="Refatoracao2_2aParte.DependenteTest" incomplete="true"/>
+      <testcase name="testDependente" classname="Refatoracao2_2aParte.DependenteTest" incomplete="true"/>
+      <testcase name="testGetNome" classname="Refatoracao2_2aParte.DependenteTest" incomplete="true"/>
+      <testcase name="testGetCpf" classname="Refatoracao2_2aParte.DependenteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_2aParte.ImpostoTeste" incomplete="true">
+      <testcase name="testeBaseDeCalculo" classname="Refatoracao2_2aParte.ImpostoTeste" incomplete="true"/>
+      <testcase name="testeValorRendimentosIsentos" classname="Refatoracao2_2aParte.ImpostoTeste" incomplete="true"/>
+      <testcase name="testeValorRendimentosTributaveis" classname="Refatoracao2_2aParte.ImpostoTeste" incomplete="true"/>
+      <testcase name="testeValorDeducoes" classname="Refatoracao2_2aParte.ImpostoTeste" incomplete="true"/>
+      <testcase name="testeValorRendimentos" classname="Refatoracao2_2aParte.ImpostoTeste" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_2aParte.RendimentoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="Refatoracao2_2aParte.RendimentoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="Refatoracao2_2aParte.RendimentoTest" incomplete="true"/>
+      <testcase name="testIsTributavel" classname="Refatoracao2_2aParte.RendimentoTest" incomplete="true"/>
+      <testcase name="testRendimento" classname="Refatoracao2_2aParte.RendimentoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_2aParte.TestesElementares" incomplete="true">
+      <testsuite name="Refatoracao2_2aParte.ContribuinteTest" incomplete="true">
+        <testcase name="testContribuinte" classname="Refatoracao2_2aParte.ContribuinteTest" incomplete="true"/>
+        <testcase name="testExcluirDeducao" classname="Refatoracao2_2aParte.ContribuinteTest" incomplete="true"/>
+        <testcase name="testAdicionarRendimento" classname="Refatoracao2_2aParte.ContribuinteTest" incomplete="true"/>
+        <testcase name="testAdicionarDeducao" classname="Refatoracao2_2aParte.ContribuinteTest" incomplete="true"/>
+        <testcase name="testExcluirRendimento" classname="Refatoracao2_2aParte.ContribuinteTest" incomplete="true"/>
+      </testsuite>
+      <testsuite name="Refatoracao2_2aParte.DeducaoTest" incomplete="true">
+        <testcase name="testGetDescricao" classname="Refatoracao2_2aParte.DeducaoTest" incomplete="true"/>
+        <testcase name="testGetValor" classname="Refatoracao2_2aParte.DeducaoTest" incomplete="true"/>
+        <testcase name="testDeducao" classname="Refatoracao2_2aParte.DeducaoTest" incomplete="true"/>
+      </testsuite>
+      <testsuite name="Refatoracao2_2aParte.DependenteTest" time="0.0">
+        <testcase name="testGetValor" classname="Refatoracao2_2aParte.DependenteTest" time="0.0"/>
+        <testcase name="testDependente" classname="Refatoracao2_2aParte.DependenteTest" time="0.0"/>
+        <testcase name="testGetNome" classname="Refatoracao2_2aParte.DependenteTest" time="0.001"/>
+        <testcase name="testGetCpf" classname="Refatoracao2_2aParte.DependenteTest" time="0.0"/>
+      </testsuite>
+      <testsuite name="Refatoracao2_2aParte.RendimentoTest" incomplete="true">
+        <testcase name="testGetDescricao" classname="Refatoracao2_2aParte.RendimentoTest" incomplete="true"/>
+        <testcase name="testGetValor" classname="Refatoracao2_2aParte.RendimentoTest" incomplete="true"/>
+        <testcase name="testIsTributavel" classname="Refatoracao2_2aParte.RendimentoTest" incomplete="true"/>
+        <testcase name="testRendimento" classname="Refatoracao2_2aParte.RendimentoTest" incomplete="true"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+  <testsuite name="Refatoracao_1.RendimentoTest" incomplete="true">
+    <testcase name="testGetDescricao" classname="Refatoracao_1.RendimentoTest" incomplete="true"/>
+    <testcase name="testGetValor" classname="Refatoracao_1.RendimentoTest" incomplete="true"/>
+    <testcase name="testIsTributavel" classname="Refatoracao_1.RendimentoTest" incomplete="true"/>
+    <testcase name="testRendimento" classname="Refatoracao_1.RendimentoTest" incomplete="true"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_1aParte.SuiteDeTestes" time="0.0">
+    <testsuite name="Refatoracao2_1aParte.Contribuinte2aFaixaTest" incomplete="true">
+      <testcase name="test" classname="Refatoracao2_1aParte.Contribuinte2aFaixaTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte.Contribuinte3aFaixaTest" incomplete="true">
+      <testcase name="test" classname="Refatoracao2_1aParte.Contribuinte3aFaixaTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte.Contribuinte4aFaixaTest" time="0.001">
+      <testcase name="test" classname="Refatoracao2_1aParte.Contribuinte4aFaixaTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte.Contribuinte5aFaixaTest" incomplete="true">
+      <testcase name="test" classname="Refatoracao2_1aParte.Contribuinte5aFaixaTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte.ContribuinteIsentoTest" time="0.0">
+      <testcase name="test" classname="Refatoracao2_1aParte.ContribuinteIsentoTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte.ContribuinteParametrizado" time="0.003">
+      <testcase name="test" classname="Refatoracao2_1aParte.ContribuinteParametrizado" time="0.001"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte.ContribuinteTest" incomplete="true">
+      <testcase name="testContribuinte" classname="Refatoracao2_1aParte.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirDeducao" classname="Refatoracao2_1aParte.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarRendimento" classname="Refatoracao2_1aParte.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarDeducao" classname="Refatoracao2_1aParte.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirRendimento" classname="Refatoracao2_1aParte.ContribuinteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte.DeducaoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="Refatoracao2_1aParte.DeducaoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="Refatoracao2_1aParte.DeducaoTest" incomplete="true"/>
+      <testcase name="testDeducao" classname="Refatoracao2_1aParte.DeducaoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte.DependenteTest" incomplete="true">
+      <testcase name="testGetValor" classname="Refatoracao2_1aParte.DependenteTest" incomplete="true"/>
+      <testcase name="testDependente" classname="Refatoracao2_1aParte.DependenteTest" incomplete="true"/>
+      <testcase name="testGetNome" classname="Refatoracao2_1aParte.DependenteTest" incomplete="true"/>
+      <testcase name="testGetCpf" classname="Refatoracao2_1aParte.DependenteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte.ImpostoTeste" time="0.001">
+      <testcase name="testeBaseDeCalculo" classname="Refatoracao2_1aParte.ImpostoTeste" time="0.0"/>
+      <testcase name="testeValorRendimentosIsentos" classname="Refatoracao2_1aParte.ImpostoTeste" time="0.0"/>
+      <testcase name="testeValorRendimentosTributaveis" classname="Refatoracao2_1aParte.ImpostoTeste" time="0.0"/>
+      <testcase name="testeValorDeducoes" classname="Refatoracao2_1aParte.ImpostoTeste" time="0.001"/>
+      <testcase name="testeValorRendimentos" classname="Refatoracao2_1aParte.ImpostoTeste" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte.RendimentoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="Refatoracao2_1aParte.RendimentoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="Refatoracao2_1aParte.RendimentoTest" incomplete="true"/>
+      <testcase name="testIsTributavel" classname="Refatoracao2_1aParte.RendimentoTest" incomplete="true"/>
+      <testcase name="testRendimento" classname="Refatoracao2_1aParte.RendimentoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte.TestesElementares" time="0.0">
+      <testsuite name="Refatoracao2_1aParte.ContribuinteTest" time="0.0">
+        <testcase name="testContribuinte" classname="Refatoracao2_1aParte.ContribuinteTest" time="0.001"/>
+        <testcase name="testExcluirDeducao" classname="Refatoracao2_1aParte.ContribuinteTest" time="0.0"/>
+        <testcase name="testAdicionarRendimento" classname="Refatoracao2_1aParte.ContribuinteTest" time="0.0"/>
+        <testcase name="testAdicionarDeducao" classname="Refatoracao2_1aParte.ContribuinteTest" time="0.0"/>
+        <testcase name="testExcluirRendimento" classname="Refatoracao2_1aParte.ContribuinteTest" time="0.001"/>
+      </testsuite>
+      <testsuite name="Refatoracao2_1aParte.DeducaoTest" incomplete="true">
+        <testcase name="testGetDescricao" classname="Refatoracao2_1aParte.DeducaoTest" incomplete="true"/>
+        <testcase name="testGetValor" classname="Refatoracao2_1aParte.DeducaoTest" incomplete="true"/>
+        <testcase name="testDeducao" classname="Refatoracao2_1aParte.DeducaoTest" incomplete="true"/>
+      </testsuite>
+      <testsuite name="Refatoracao2_1aParte.DependenteTest" time="0.0">
+        <testcase name="testGetValor" classname="Refatoracao2_1aParte.DependenteTest" time="0.0"/>
+        <testcase name="testDependente" classname="Refatoracao2_1aParte.DependenteTest" time="0.0"/>
+        <testcase name="testGetNome" classname="Refatoracao2_1aParte.DependenteTest" time="0.001"/>
+        <testcase name="testGetCpf" classname="Refatoracao2_1aParte.DependenteTest" time="0.001"/>
+      </testsuite>
+      <testsuite name="Refatoracao2_1aParte.RendimentoTest" time="0.0">
+        <testcase name="testGetDescricao" classname="Refatoracao2_1aParte.RendimentoTest" time="0.0"/>
+        <testcase name="testGetValor" classname="Refatoracao2_1aParte.RendimentoTest" time="0.0"/>
+        <testcase name="testIsTributavel" classname="Refatoracao2_1aParte.RendimentoTest" time="0.0"/>
+        <testcase name="testRendimento" classname="Refatoracao2_1aParte.RendimentoTest" time="0.001"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+  <testsuite name="ContribuinteParametrizado" time="0.0">
+    <testcase name="test" classname="ContribuinteParametrizado" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ContribuinteParametrizado.&lt;init&gt;(ContribuinteParametrizado.java:11)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ContribuinteParametrizado.&lt;init&gt;(ContribuinteParametrizado.java:11)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+    </testcase>
+  </testsuite>
+  <testsuite name="Refatoracao_1.ImpostoTeste" incomplete="true">
+    <testcase name="testeBaseDeCalculo" classname="Refatoracao_1.ImpostoTeste" incomplete="true"/>
+    <testcase name="testeValorRendimentosIsentos" classname="Refatoracao_1.ImpostoTeste" incomplete="true"/>
+    <testcase name="testeValorRendimentosTributaveis" classname="Refatoracao_1.ImpostoTeste" incomplete="true"/>
+    <testcase name="testeValorDeducoes" classname="Refatoracao_1.ImpostoTeste" incomplete="true"/>
+    <testcase name="testeValorRendimentos" classname="Refatoracao_1.ImpostoTeste" incomplete="true"/>
+  </testsuite>
+  <testsuite name="Refatoracao_1.TestesElementares" incomplete="true">
+    <testsuite name="Refatoracao_1.ContribuinteTest" incomplete="true">
+      <testcase name="testContribuinte" classname="Refatoracao_1.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirDeducao" classname="Refatoracao_1.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarRendimento" classname="Refatoracao_1.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarDeducao" classname="Refatoracao_1.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirRendimento" classname="Refatoracao_1.ContribuinteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao_1.DeducaoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="Refatoracao_1.DeducaoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="Refatoracao_1.DeducaoTest" incomplete="true"/>
+      <testcase name="testDeducao" classname="Refatoracao_1.DeducaoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao_1.DependenteTest" incomplete="true">
+      <testcase name="testGetValor" classname="Refatoracao_1.DependenteTest" incomplete="true"/>
+      <testcase name="testDependente" classname="Refatoracao_1.DependenteTest" incomplete="true"/>
+      <testcase name="testGetNome" classname="Refatoracao_1.DependenteTest" incomplete="true"/>
+      <testcase name="testGetCpf" classname="Refatoracao_1.DependenteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao_1.RendimentoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="Refatoracao_1.RendimentoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="Refatoracao_1.RendimentoTest" incomplete="true"/>
+      <testcase name="testIsTributavel" classname="Refatoracao_1.RendimentoTest" incomplete="true"/>
+      <testcase name="testRendimento" classname="Refatoracao_1.RendimentoTest" incomplete="true"/>
+    </testsuite>
+  </testsuite>
+  <testsuite name="ImpostoTeste" time="0.001">
+    <testcase name="testeBaseDeCalculo" classname="ImpostoTeste" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ImpostoTeste.setUp(ImpostoTeste.java:17)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ImpostoTeste.setUp(ImpostoTeste.java:17)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+    </testcase>
+    <testcase name="testeValorRendimentosIsentos" classname="ImpostoTeste" time="0.001">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ImpostoTeste.setUp(ImpostoTeste.java:17)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ImpostoTeste.setUp(ImpostoTeste.java:17)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+    </testcase>
+    <testcase name="testeValorRendimentosTributaveis" classname="ImpostoTeste" time="0.001">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ImpostoTeste.setUp(ImpostoTeste.java:17)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ImpostoTeste.setUp(ImpostoTeste.java:17)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+    </testcase>
+    <testcase name="testeValorDeducoes" classname="ImpostoTeste" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ImpostoTeste.setUp(ImpostoTeste.java:17)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ImpostoTeste.setUp(ImpostoTeste.java:17)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+    </testcase>
+    <testcase name="testeValorRendimentos" classname="ImpostoTeste" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ImpostoTeste.setUp(ImpostoTeste.java:17)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ImpostoTeste.setUp(ImpostoTeste.java:17)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+    </testcase>
+  </testsuite>
+  <testsuite name="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" time="0.001">
+    <testcase name="testContribuinte" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" time="0.001"/>
+    <testcase name="testExcluirDeducao" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" time="0.0"/>
+    <testcase name="testAdicionarRendimento" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" time="0.001"/>
+    <testcase name="testAdicionarDeducao" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" time="0.0"/>
+    <testcase name="testExcluirRendimento" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" time="0.0"/>
+  </testsuite>
+  <testsuite name="Refatoracao3.Contribuinte3aFaixaTest" time="0.0">
+    <testcase name="test" classname="Refatoracao3.Contribuinte3aFaixaTest" time="0.001"/>
+  </testsuite>
+  <testsuite name="Refatoracao_1.ContribuinteParametrizado" incomplete="true">
+    <testcase name="test" classname="Refatoracao_1.ContribuinteParametrizado" incomplete="true"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_1aParte_FeitoEmSala.Contribuinte3aFaixaTest" time="0.0">
+    <testcase name="test" classname="Refatoracao2_1aParte_FeitoEmSala.Contribuinte3aFaixaTest" time="0.0"/>
+  </testsuite>
+  <testsuite name="Refatoracao_1.ContribuinteIsentoTest" incomplete="true">
+    <testcase name="test" classname="Refatoracao_1.ContribuinteIsentoTest" incomplete="true"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_1aParte.Contribuinte3aFaixaTest" time="0.001">
+    <testcase name="test" classname="Refatoracao2_1aParte.Contribuinte3aFaixaTest" time="0.001"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_2aParte.ImpostoTeste" time="0.001">
+    <testcase name="testeBaseDeCalculo" classname="Refatoracao2_2aParte.ImpostoTeste" time="0.0"/>
+    <testcase name="testeValorRendimentosIsentos" classname="Refatoracao2_2aParte.ImpostoTeste" time="0.0"/>
+    <testcase name="testeValorRendimentosTributaveis" classname="Refatoracao2_2aParte.ImpostoTeste" time="0.0"/>
+    <testcase name="testeValorDeducoes" classname="Refatoracao2_2aParte.ImpostoTeste" time="0.0"/>
+    <testcase name="testeValorRendimentos" classname="Refatoracao2_2aParte.ImpostoTeste" time="0.0"/>
+  </testsuite>
+  <testsuite name="Contribuinte2aFaixaTest" time="0.0">
+    <testcase name="test" classname="Contribuinte2aFaixaTest" time="0.001">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at Contribuinte2aFaixaTest.&lt;init&gt;(Contribuinte2aFaixaTest.java:11)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at Contribuinte2aFaixaTest.&lt;init&gt;(Contribuinte2aFaixaTest.java:11)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+    </testcase>
+  </testsuite>
+  <testsuite name="Refatoracao2_2aParte.RendimentoTest" time="0.001">
+    <testcase name="testGetDescricao" classname="Refatoracao2_2aParte.RendimentoTest" time="0.0"/>
+    <testcase name="testGetValor" classname="Refatoracao2_2aParte.RendimentoTest" time="0.001"/>
+    <testcase name="testIsTributavel" classname="Refatoracao2_2aParte.RendimentoTest" time="0.0"/>
+    <testcase name="testRendimento" classname="Refatoracao2_2aParte.RendimentoTest" time="0.001"/>
+  </testsuite>
+  <testsuite name="Refatoracao3.Contribuinte2aFaixaTest" time="0.001">
+    <testcase name="test" classname="Refatoracao3.Contribuinte2aFaixaTest" time="0.0"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_2aParte.Contribuinte5aFaixaTest" time="0.0">
+    <testcase name="test" classname="Refatoracao2_2aParte.Contribuinte5aFaixaTest" time="0.0"/>
+  </testsuite>
+  <testsuite name="hebertBaiola.PessoaTest" time="0.004">
+    <testcase name="testMetodoPessoa" classname="hebertBaiola.PessoaTest" time="0.004"/>
+  </testsuite>
+  <testsuite name="Refatoracao_1.SuiteDeTestes" time="0.026">
+    <testsuite name="Refatoracao_1.Contribuinte2aFaixaTest" incomplete="true">
+      <testcase name="test" classname="Refatoracao_1.Contribuinte2aFaixaTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao_1.Contribuinte3aFaixaTest" incomplete="true">
+      <testcase name="test" classname="Refatoracao_1.Contribuinte3aFaixaTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao_1.Contribuinte4aFaixaTest" time="0.0">
+      <testcase name="test" classname="Refatoracao_1.Contribuinte4aFaixaTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao_1.Contribuinte5aFaixaTest" incomplete="true">
+      <testcase name="test" classname="Refatoracao_1.Contribuinte5aFaixaTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao_1.ContribuinteIsentoTest" time="0.001">
+      <testcase name="test" classname="Refatoracao_1.ContribuinteIsentoTest" time="0.001"/>
+    </testsuite>
+    <testsuite name="Refatoracao_1.ContribuinteParametrizado" time="0.001">
+      <testcase name="test" classname="Refatoracao_1.ContribuinteParametrizado" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao_1.ContribuinteTest" incomplete="true">
+      <testcase name="testContribuinte" classname="Refatoracao_1.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirDeducao" classname="Refatoracao_1.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarRendimento" classname="Refatoracao_1.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarDeducao" classname="Refatoracao_1.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirRendimento" classname="Refatoracao_1.ContribuinteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao_1.DeducaoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="Refatoracao_1.DeducaoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="Refatoracao_1.DeducaoTest" incomplete="true"/>
+      <testcase name="testDeducao" classname="Refatoracao_1.DeducaoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao_1.DependenteTest" incomplete="true">
+      <testcase name="testGetValor" classname="Refatoracao_1.DependenteTest" incomplete="true"/>
+      <testcase name="testDependente" classname="Refatoracao_1.DependenteTest" incomplete="true"/>
+      <testcase name="testGetNome" classname="Refatoracao_1.DependenteTest" incomplete="true"/>
+      <testcase name="testGetCpf" classname="Refatoracao_1.DependenteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao_1.ImpostoTeste" time="0.002">
+      <testcase name="testeBaseDeCalculo" classname="Refatoracao_1.ImpostoTeste" time="0.0"/>
+      <testcase name="testeValorRendimentosIsentos" classname="Refatoracao_1.ImpostoTeste" time="0.0"/>
+      <testcase name="testeValorRendimentosTributaveis" classname="Refatoracao_1.ImpostoTeste" time="0.0"/>
+      <testcase name="testeValorDeducoes" classname="Refatoracao_1.ImpostoTeste" time="0.0"/>
+      <testcase name="testeValorRendimentos" classname="Refatoracao_1.ImpostoTeste" time="0.001"/>
+    </testsuite>
+    <testsuite name="Refatoracao_1.RendimentoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="Refatoracao_1.RendimentoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="Refatoracao_1.RendimentoTest" incomplete="true"/>
+      <testcase name="testIsTributavel" classname="Refatoracao_1.RendimentoTest" incomplete="true"/>
+      <testcase name="testRendimento" classname="Refatoracao_1.RendimentoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao_1.TestesElementares" time="0.045">
+      <testsuite name="Refatoracao_1.ContribuinteTest" time="0.005">
+        <testcase name="testContribuinte" classname="Refatoracao_1.ContribuinteTest" time="0.0"/>
+        <testcase name="testExcluirDeducao" classname="Refatoracao_1.ContribuinteTest" time="0.001"/>
+        <testcase name="testAdicionarRendimento" classname="Refatoracao_1.ContribuinteTest" time="0.0"/>
+        <testcase name="testAdicionarDeducao" classname="Refatoracao_1.ContribuinteTest" time="0.0"/>
+        <testcase name="testExcluirRendimento" classname="Refatoracao_1.ContribuinteTest" time="0.0"/>
+      </testsuite>
+      <testsuite name="Refatoracao_1.DeducaoTest" incomplete="true">
+        <testcase name="testGetDescricao" classname="Refatoracao_1.DeducaoTest" incomplete="true"/>
+        <testcase name="testGetValor" classname="Refatoracao_1.DeducaoTest" incomplete="true"/>
+        <testcase name="testDeducao" classname="Refatoracao_1.DeducaoTest" incomplete="true"/>
+      </testsuite>
+      <testsuite name="Refatoracao_1.DependenteTest" incomplete="true">
+        <testcase name="testGetValor" classname="Refatoracao_1.DependenteTest" incomplete="true"/>
+        <testcase name="testDependente" classname="Refatoracao_1.DependenteTest" incomplete="true"/>
+        <testcase name="testGetNome" classname="Refatoracao_1.DependenteTest" incomplete="true"/>
+        <testcase name="testGetCpf" classname="Refatoracao_1.DependenteTest" incomplete="true"/>
+      </testsuite>
+      <testsuite name="Refatoracao_1.RendimentoTest" time="0.004">
+        <testcase name="testGetDescricao" classname="Refatoracao_1.RendimentoTest" time="0.0"/>
+        <testcase name="testGetValor" classname="Refatoracao_1.RendimentoTest" time="0.0"/>
+        <testcase name="testIsTributavel" classname="Refatoracao_1.RendimentoTest" time="0.0"/>
+        <testcase name="testRendimento" classname="Refatoracao_1.RendimentoTest" time="0.001"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+  <testsuite name="Refatoracao3.DeducaoTest" incomplete="true">
+    <testcase name="testGetDescricao" classname="Refatoracao3.DeducaoTest" incomplete="true"/>
+    <testcase name="testGetValor" classname="Refatoracao3.DeducaoTest" incomplete="true"/>
+    <testcase name="testDeducao" classname="Refatoracao3.DeducaoTest" incomplete="true"/>
+  </testsuite>
+  <testsuite name="Refatoracao_1.DependenteTest" time="0.0">
+    <testcase name="testGetValor" classname="Refatoracao_1.DependenteTest" time="0.0"/>
+    <testcase name="testDependente" classname="Refatoracao_1.DependenteTest" time="0.001"/>
+    <testcase name="testGetNome" classname="Refatoracao_1.DependenteTest" time="0.0"/>
+    <testcase name="testGetCpf" classname="Refatoracao_1.DependenteTest" time="0.0"/>
+  </testsuite>
+  <testsuite name="Refatoracao_1.Contribuinte5aFaixaTest" time="0.0">
+    <testcase name="test" classname="Refatoracao_1.Contribuinte5aFaixaTest" time="0.001"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_2aParte.Contribuinte4aFaixaTest" time="0.0">
+    <testcase name="test" classname="Refatoracao2_2aParte.Contribuinte4aFaixaTest" time="0.0"/>
+  </testsuite>
+  <testsuite name="Refatoracao3.RendimentoTest" incomplete="true">
+    <testcase name="testGetDescricao" classname="Refatoracao3.RendimentoTest" incomplete="true"/>
+    <testcase name="testGetValor" classname="Refatoracao3.RendimentoTest" incomplete="true"/>
+    <testcase name="testIsTributavel" classname="Refatoracao3.RendimentoTest" incomplete="true"/>
+    <testcase name="testRendimento" classname="Refatoracao3.RendimentoTest" incomplete="true"/>
+  </testsuite>
+  <testsuite name="Contribuinte4aFaixaTest" time="0.0">
+    <testcase name="test" classname="Contribuinte4aFaixaTest" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at Contribuinte4aFaixaTest.&lt;init&gt;(Contribuinte4aFaixaTest.java:11)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at Contribuinte4aFaixaTest.&lt;init&gt;(Contribuinte4aFaixaTest.java:11)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+    </testcase>
+  </testsuite>
+  <testsuite name="Refatoracao2_1aParte.Contribuinte2aFaixaTest" time="0.0">
+    <testcase name="test" classname="Refatoracao2_1aParte.Contribuinte2aFaixaTest" time="0.001"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_2aParte.ContribuinteTest" time="0.001">
+    <testcase name="testContribuinte" classname="Refatoracao2_2aParte.ContribuinteTest" time="0.0"/>
+    <testcase name="testExcluirDeducao" classname="Refatoracao2_2aParte.ContribuinteTest" time="0.0"/>
+    <testcase name="testAdicionarRendimento" classname="Refatoracao2_2aParte.ContribuinteTest" time="0.0"/>
+    <testcase name="testAdicionarDeducao" classname="Refatoracao2_2aParte.ContribuinteTest" time="0.0"/>
+    <testcase name="testExcluirRendimento" classname="Refatoracao2_2aParte.ContribuinteTest" time="0.001"/>
+  </testsuite>
+  <testsuite name="DependenteTest" time="0.0">
+    <testcase name="testGetValor" classname="DependenteTest" time="0.0"/>
+    <testcase name="testDependente" classname="DependenteTest" time="0.0"/>
+    <testcase name="testGetNome" classname="DependenteTest" time="0.0"/>
+    <testcase name="testGetCpf" classname="DependenteTest" time="0.0"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_1aParte_FeitoEmSala.Contribuinte2aFaixaTest" time="0.001">
+    <testcase name="test" classname="Refatoracao2_1aParte_FeitoEmSala.Contribuinte2aFaixaTest" time="0.0"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" time="0.001">
+    <testcase name="testGetDescricao" classname="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" time="0.0"/>
+    <testcase name="testGetValor" classname="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" time="0.001"/>
+    <testcase name="testIsTributavel" classname="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" time="0.0"/>
+    <testcase name="testRendimento" classname="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" time="0.0"/>
+  </testsuite>
+  <testsuite name="ContribuinteIsentoTest" time="0.0">
+    <testcase name="test" classname="ContribuinteIsentoTest" time="0.001">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ContribuinteIsentoTest.&lt;init&gt;(ContribuinteIsentoTest.java:11)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+	CalculoDeImposto cannot be resolved to a type
+
+	at Contribuinte.&lt;init&gt;(Contribuinte.java:21)
+	at ContribuinteIsentoTest.&lt;init&gt;(ContribuinteIsentoTest.java:11)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:195)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:244)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:241)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+    </testcase>
+  </testsuite>
+  <testsuite name="Refatoracao2_1aParte.DeducaoTest" time="0.0">
+    <testcase name="testGetDescricao" classname="Refatoracao2_1aParte.DeducaoTest" time="0.0"/>
+    <testcase name="testGetValor" classname="Refatoracao2_1aParte.DeducaoTest" time="0.0"/>
+    <testcase name="testDeducao" classname="Refatoracao2_1aParte.DeducaoTest" time="0.001"/>
+  </testsuite>
+  <testsuite name="Refatoracao3.ContribuinteTest" incomplete="true">
+    <testcase name="testContribuinte" classname="Refatoracao3.ContribuinteTest" incomplete="true"/>
+    <testcase name="testExcluirDeducao" classname="Refatoracao3.ContribuinteTest" incomplete="true"/>
+    <testcase name="testAdicionarRendimento" classname="Refatoracao3.ContribuinteTest" incomplete="true"/>
+    <testcase name="testAdicionarDeducao" classname="Refatoracao3.ContribuinteTest" incomplete="true"/>
+    <testcase name="testExcluirRendimento" classname="Refatoracao3.ContribuinteTest" incomplete="true"/>
+  </testsuite>
+  <testsuite name="Refatoracao_1.Contribuinte3aFaixaTest" time="0.0">
+    <testcase name="test" classname="Refatoracao_1.Contribuinte3aFaixaTest" time="0.002"/>
+  </testsuite>
+  <testsuite name="Refatoracao3.TestesElementares" time="0.004">
+    <testsuite name="Refatoracao3.ContribuinteTest" time="0.001">
+      <testcase name="testContribuinte" classname="Refatoracao3.ContribuinteTest" time="0.0"/>
+      <testcase name="testExcluirDeducao" classname="Refatoracao3.ContribuinteTest" time="0.0"/>
+      <testcase name="testAdicionarRendimento" classname="Refatoracao3.ContribuinteTest" time="0.0"/>
+      <testcase name="testAdicionarDeducao" classname="Refatoracao3.ContribuinteTest" time="0.001"/>
+      <testcase name="testExcluirRendimento" classname="Refatoracao3.ContribuinteTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao3.DeducaoTest" time="0.0">
+      <testcase name="testGetDescricao" classname="Refatoracao3.DeducaoTest" time="0.0"/>
+      <testcase name="testGetValor" classname="Refatoracao3.DeducaoTest" time="0.0"/>
+      <testcase name="testDeducao" classname="Refatoracao3.DeducaoTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao3.DependenteTest" incomplete="true">
+      <testcase name="testGetValor" classname="Refatoracao3.DependenteTest" incomplete="true"/>
+      <testcase name="testDependente" classname="Refatoracao3.DependenteTest" incomplete="true"/>
+      <testcase name="testGetNome" classname="Refatoracao3.DependenteTest" incomplete="true"/>
+      <testcase name="testGetCpf" classname="Refatoracao3.DependenteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao3.RendimentoTest" time="0.001">
+      <testcase name="testGetDescricao" classname="Refatoracao3.RendimentoTest" time="0.0"/>
+      <testcase name="testGetValor" classname="Refatoracao3.RendimentoTest" time="0.0"/>
+      <testcase name="testIsTributavel" classname="Refatoracao3.RendimentoTest" time="0.0"/>
+      <testcase name="testRendimento" classname="Refatoracao3.RendimentoTest" time="0.001"/>
+    </testsuite>
+  </testsuite>
+  <testsuite name="Refatoracao_1.Contribuinte2aFaixaTest" time="0.0">
+    <testcase name="test" classname="Refatoracao_1.Contribuinte2aFaixaTest" time="0.0"/>
+  </testsuite>
+  <testsuite name="Refatoracao3.DependenteTest" time="0.001">
+    <testcase name="testGetValor" classname="Refatoracao3.DependenteTest" time="0.0"/>
+    <testcase name="testDependente" classname="Refatoracao3.DependenteTest" time="0.0"/>
+    <testcase name="testGetNome" classname="Refatoracao3.DependenteTest" time="0.001"/>
+    <testcase name="testGetCpf" classname="Refatoracao3.DependenteTest" time="0.0"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_1aParte.Contribuinte5aFaixaTest" time="0.0">
+    <testcase name="test" classname="Refatoracao2_1aParte.Contribuinte5aFaixaTest" time="0.0"/>
+  </testsuite>
+  <testsuite name="Refatoracao2_2aParte.DeducaoTest" time="0.0">
+    <testcase name="testGetDescricao" classname="Refatoracao2_2aParte.DeducaoTest" time="0.0"/>
+    <testcase name="testGetValor" classname="Refatoracao2_2aParte.DeducaoTest" time="0.001"/>
+    <testcase name="testDeducao" classname="Refatoracao2_2aParte.DeducaoTest" time="0.0"/>
+  </testsuite>
+  <testsuite name="Refatoracao_1.DeducaoTest" time="0.0">
+    <testcase name="testGetDescricao" classname="Refatoracao_1.DeducaoTest" time="0.0"/>
+    <testcase name="testGetValor" classname="Refatoracao_1.DeducaoTest" time="0.0"/>
+    <testcase name="testDeducao" classname="Refatoracao_1.DeducaoTest" time="0.0"/>
+  </testsuite>
+</testrun>

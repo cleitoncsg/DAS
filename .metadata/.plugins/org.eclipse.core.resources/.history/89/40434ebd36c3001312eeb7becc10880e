@@ -1,0 +1,9 @@
+package hebertBaitolaRefatorado;
+
+public class Pessoa {
+	
+	public String metodoPessoa(){
+		return PessoaAuxiliar().metodoPessoaAuxiliar();
+	}
+
+}

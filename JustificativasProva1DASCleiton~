@@ -1,0 +1,11 @@
+PASSO 1:
+foi criada a classe ContribuinteTributo com o método computaTributo()
+
+PASSO 2: 
+Eliminar complexidade das estruturas condicionais do método computaTributo() 
+
+PASSO 3:
+Eliminar a atribuição de valor temp = 0 nos else do método computaTributo
+
+PASSO 4:
+Extrair métodos através da estruturas de controle que estavam no método ComputaTributo

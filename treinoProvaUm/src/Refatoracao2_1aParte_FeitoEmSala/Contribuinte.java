@@ -9,16 +9,16 @@ public class Contribuinte {
 	private String nome; 
 	//private int[] cpf;
 	CPF cpf;
-	private float totalRendimentos, totalRendimentosTributaveis, totalRendimentosIsentos;
-	private float totalDeducoes; 
-	private float baseDeCalculo;
-	private float valor1aFaixa, 
-	              valor2aFaixa, 
-	              valor3aFaixa, 
-	              valor4aFaixa, 
-	              valor5aFaixa;
-	private Vector<Rendimento> rendimentos;
-	private Vector<Deducao> deducoes; 
+	float totalRendimentos, totalRendimentosTributaveis, totalRendimentosIsentos;
+	float totalDeducoes; 
+	float baseDeCalculo;
+	float valor1aFaixa = 0, 
+	              valor2aFaixa = 0, 
+	              valor3aFaixa = 0, 
+	              valor4aFaixa = 0, 
+	              valor5aFaixa = 0;
+	Vector<Rendimento> rendimentos;
+	Vector<Deducao> deducoes; 
 	
 	public Contribuinte(String nome, int[] cpf) {
 		this.nome = nome; 
@@ -33,77 +33,7 @@ public class Contribuinte {
 		
 		calcularRendimentos();
 		
-		//2a PARTE: CALCULOS DAS DEDUCOES
-		totalDeducoes = 0; 
-		
-		Enumeration<Deducao> d = deducoes.elements();
-		while (d.hasMoreElements()) {
-			Deducao temp = d.nextElement();
-			totalDeducoes += temp.getValor();
-		}
-		
-		//3a PARTE: CALCULO DA BASE DE CALCULO DO IRPF
-		baseDeCalculo = totalRendimentos - totalDeducoes; 
-		
-		//4a PARTE: CALCULO DO IMPOSTO DEVIDO, FAIXA A FAIXA E TOTAL.
-		//Testa se a base de calculo � aplic�vel a cada faixa... 
-		//5a faixa: aplicavel se a base de calculo for maior que R$4271,59
-		float temp = baseDeCalculo - (float)4271.59; //para calcular o valor que ultrapassou o limite da quinta faixa
-		if (temp > 0) 
-			valor5aFaixa = temp * (float)0.275;
-		else {
-			valor5aFaixa = 0;
-			temp = 0; 
-		}
-		
-		//4a faixa: aplicavel se a base de calculo for maior ou igual a R$3418,60 e menor que R$ 4271,59
-		temp = baseDeCalculo - (float)3418.60;
-		if (temp > 0){
-			if (baseDeCalculo > 4271.59) 
-				temp = (float)4271.59 - (float)3418.60; 
-			valor4aFaixa = temp * (float)0.225;
-		}			 
-		else {
-			valor4aFaixa = 0;
-			temp = 0;
-		}
-		
-		//3a faixa: aplicavel se a base de calculo for maior ou igual a R$2563,92 e menor que R$ 3418,60
-		temp = baseDeCalculo - (float) temp - (float)2563.92;
-		if (temp > 0){
-			if (baseDeCalculo > 3418.60) 
-				temp = (float)3418.60 - (float)2563.92;
-			valor3aFaixa = temp * (float)0.15;
-		} 
-		else {
-			valor3aFaixa = 0;
-			temp = 0;
-		}
-		//2a faixa: aplicavel se a base de calculo for maior ou igual a R$1710,79 e menor que R$ 2563,91
-		temp = baseDeCalculo - (float)1710.79;
-		if (temp > 0){
-			if (baseDeCalculo > 2563.91) 
-				temp = (float)2563.91 - (float)1710.79; 
-			valor2aFaixa = temp * (float)0.075;
-		}
-		else {
-			valor2aFaixa = 0;
-			temp = 0;
-		}
-		//1a faixa: aplicavel se a base de calculo for menor que R$1710,79
-		temp = baseDeCalculo - (float)1710.79;
-		if (temp <= 0)
-			valor1aFaixa = temp * 0; 
-		else {
-			valor1aFaixa = 0;
-			temp = 0;
-		}
-		
-		temp = valor5aFaixa + valor4aFaixa + valor3aFaixa + valor2aFaixa + valor1aFaixa;
-		
-		//4a faixa: aplicavel se a base de calculo for maior ou igual a R$3418,60 e menor que R$4271,79
-		
-		return temp;
+		return new ContribuinteTributo(this).computarTributo();
 		
 	}
 
@@ -190,7 +120,6 @@ public class Contribuinte {
 		return totalRendimentos;
 	}
 
-
 	public float getTotalRendimentosTributaveis() {
 		return totalRendimentosTributaveis;
 	}
@@ -198,7 +127,6 @@ public class Contribuinte {
 	public float getTotalRendimentosIsentos() {
 		return totalRendimentosIsentos;
 	}
-
 
 	public double getTotalDeducoes() {
 		return totalDeducoes;
@@ -208,30 +136,24 @@ public class Contribuinte {
 		return baseDeCalculo;
 	}
 
-
 	public float getValor1aFaixa() {
 		return valor1aFaixa;
 	}
-
 
 	public float getValor2aFaixa() {
 		return valor2aFaixa;
 	}
 
-
-	public float getValor3aFaixa() {
+	public float getValor3aFaixa(){
 		return valor3aFaixa;
 	}
-
+	
 
 	public float getValor4aFaixa() {
 		return valor4aFaixa;
 	}
 
-
 	public float getValor5aFaixa() {
 		return valor5aFaixa;
 	}
-	
-	
 }

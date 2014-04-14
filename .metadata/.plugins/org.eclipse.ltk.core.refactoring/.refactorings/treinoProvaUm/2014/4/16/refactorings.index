@@ -14,3 +14,8 @@
 1397514077425	Delete element
 1397515148073	Rename compilation unit 'TennisGameTest.java'
 1397516113830	Delete element
+1397518152434	Extract method 'calculoFaixa1'
+1397518177249	Extract method 'calculoFaixa2'
+1397518206965	Extract method 'calculoFaixa3'
+1397518224097	Extract method 'calculoFaixa4'
+1397518236242	Extract method 'calculoFaixa5'

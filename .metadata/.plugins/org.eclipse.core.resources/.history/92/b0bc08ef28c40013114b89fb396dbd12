@@ -1,0 +1,9 @@
+package Refatoracao2_1aParte_FeitoEmSala;
+
+public class ContribuinteTributo {
+
+	public ContribuinteTributo() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

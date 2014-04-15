@@ -1,0 +1,52 @@
+Refatoracoes Contempladas
+	Compondo Métodos
+		Extrair Método
+		Introduzir Método
+		Introduzir Temporário
+		Trocar Variável Temporária Por Consulta
+		Introduzir Variável Explicativa
+		Dividir Variável Temporária
+		Remover Atribuições de Parâmetros
+		Substituir Método por Método Objeto
+		-Substituir Algoritmo
+	Movendo Características entre Objetos
+		Mover Método
+		Mover Campo
+		Extrair Classe
+		Introduzir Classe
+		Ocultar Delegação
+		Remover Homem do Meio
+		Introduzir Metodo Estreangeiro
+		Introduzir Extensão Local
+	Organzando Dados
+		Auto-encapsular campo
+		Substituir valor de dado por objeto
+		Mudar valor por referência
+		Substituir array por objeto
+		Substituir número mágico por constante simbólica
+		Substituir associação unidirecional por bidirecional
+		Substituir associação bidirecional por unidirecional
+		Duplicar dados observáveis
+		Encapsular campo
+		Encapsular coleção
+		-- Substituir registro com classe de dados
+		-- Substituir tipo de dados Código por classe
+		-- Substituir tipo de dados Código por subclasse
+		-- Substituir tipo de dados Código por State/Strategy
+	Simplificando Expressoes Condicionais
+		Decompor condicional
+		Consolidar expressão condicional
+		Consolidar fragmentos de condicional duplicados
+		Remover flag de controle
+		-- Remover condicionais aninhadas com cláusulas de guarda
+		Substituir condicional por polimorfismo
+		-- Introduzir objeto nulo
+		-- Introduzir asserção (ou afirmativa)
+	Simplificando chamadas a metodos
+		Introdução do Objeto Parametro
+		Preserve o objeto
+	Lidando com Generalização
+		- Subindo Campo na Hierarquia
+		- Form Template Method
+	Misc
+		Eliminando instanceof

@@ -1,0 +1,61 @@
+PASSO 1
+Nome da refatoração:
+Justificativa:
+
+PASSO 1
+Nome da refatoração:
+Justificativa:
+
+
+PASSO 2
+Nome da refatoração:
+Justificativa:
+
+PASSO 3
+Nome da refatoração:
+Justificativa:
+
+PASSO 4
+Nome da refatoração:
+Justificativa:
+
+PASSO 5
+Nome da refatoração:
+Justificativa:
+
+PASSO 6
+Nome da refatoração:
+Justificativa:
+
+PASSO 7
+Nome da refatoração:
+Justificativa:
+
+PASSO 8
+Nome da refatoração:
+Justificativa:
+
+
+Lista enxuta de refatorações
+Refatoracoes Contempladas
+	Compondo Métodos
+		-Extrair Método
+		-Introduzir Variável Explicativa
+		Substituir Método por Método Objeto
+	Movendo Características entre Objetos
+		-Mover Método
+		-Mover Campo
+		-Extrair Classe
+		Ocultar Delegação
+	Organizando Dados
+		-encapsular campo
+		-Substituir número mágico por constante simbólica
+		Substituir valor de dado por objeto
+		Substituir array por objeto
+
+
+	Simplificando Expressoes Condicionais
+		-Decompor condicional
+		Consolidar fragmentos de condicional duplicados
+		Remover flag de controle
+

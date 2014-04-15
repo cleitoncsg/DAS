@@ -1,0 +1,55 @@
+package Refatoracao_Cleiton;
+import static org.junit.Assert.*;
+import junit.framework.Assert;
+
+import org.junit.Before;
+import org.junit.Test;
+
+/**
+ * Esse Caso de Teste � extremamente simples. Ele testa uma �nica unidade do projeto, no caso a classe DEPENDENTE. O 
+ * teste � feito com base na interface p�blica do objeto DEPENDENTE, e testar� coisas como instancia��o de objetos, 
+ * atribui��o de valores, etc...
+ * @author Andre
+ *
+ */
+public class DependenteTest {
+
+	Dependente fulano, ciclano;
+	
+	@Before
+	public void setUp() {
+		fulano = new Dependente("Fulano de tal", new int[]{1,2,3,4,5,6,7,8,9,0,0});
+		ciclano = new Dependente("Ciclano de tal", new int[]{9,9,9,8,8,8,7,7,7,1,6});
+	}
+	
+	
+	@Test
+	public void testDependente() {
+		Assert.assertNotNull(fulano);
+		Assert.assertNotNull(ciclano);
+	}
+
+	@Test
+	public void testGetNome() {
+		Assert.assertEquals("Fulano de tal", fulano.getNome());
+		Assert.assertEquals("Ciclano de tal", ciclano.getNome());
+	}
+
+	@Test
+	public void testGetCpf() {
+		assertArrayEquals(new int[]{1,2,3,4,5,6,7,8,9,0,0}, fulano.getCpf());
+		assertArrayEquals(new int[]{9,9,9,8,8,8,7,7,7,1,6}, ciclano.getCpf());
+	
+	}
+	
+	/**
+	 * Notem que esse teste busca certificar que o valor retornado � 171,79. No entanto esse valor n�o est� definido em 
+	 * DEPENDENTE, mas em DEDUCAO. O metodo utilizado para testar tamb�m est� definido em DEDUCAO.
+	 */
+	@Test
+	public void testGetValor() {
+		Assert.assertEquals(171.97, (double)fulano.getValor(), 0.001);
+		Assert.assertEquals(171.97, (double)ciclano.getValor(), 0.001);
+	}
+
+}

@@ -1,0 +1,23 @@
+Refatoracoes Contempladas
+	Compondo Métodos
+		Extrair Método
+		Introduzir Temporário
+		Introduzir Variável Explicativa
+		Remover Atribuições de Parâmetros
+		Substituir Método por Método Objeto
+	Movendo Características entre Objetos
+		Mover Método
+		Mover Campo
+		Extrair Classe
+		Ocultar Delegação
+	Organizando Dados
+		encapsular campo
+		Substituir valor de dado por objeto
+		Substituir array por objeto
+		Substituir número mágico por constante simbólica
+
+	Simplificando Expressoes Condicionais
+		Decompor condicional
+		Consolidar expressão condicional
+		Consolidar fragmentos de condicional duplicados
+		Remover flag de controle

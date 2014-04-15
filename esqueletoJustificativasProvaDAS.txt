@@ -1,15 +1,11 @@
 PASSO 1
-Nome da refatoração:
-Justificativa:
-
-PASSO 1
-Nome da refatoração:
-Justificativa:
-
+Nome da refatoração: Organizando Dados (encapsular campo)
+Justificativa: Foi encapsulado os atributos da classe Rendimento, Deducao e CPF com a tipagem privada
 
 PASSO 2
 Nome da refatoração:
 Justificativa:
+
 
 PASSO 3
 Nome da refatoração:
@@ -19,21 +15,6 @@ PASSO 4
 Nome da refatoração:
 Justificativa:
 
-PASSO 5
-Nome da refatoração:
-Justificativa:
-
-PASSO 6
-Nome da refatoração:
-Justificativa:
-
-PASSO 7
-Nome da refatoração:
-Justificativa:
-
-PASSO 8
-Nome da refatoração:
-Justificativa:
 
 
 Lista enxuta de refatorações
@@ -58,4 +39,25 @@ Refatoracoes Contempladas
 		-Decompor condicional
 		Consolidar fragmentos de condicional duplicados
 		Remover flag de controle
+
+
+PASSO 4
+Nome da refatoração:
+Justificativa:
+
+PASSO 5
+Nome da refatoração:
+Justificativa:
+
+PASSO 6
+Nome da refatoração:
+Justificativa:
+
+PASSO 7
+Nome da refatoração:
+Justificativa:
+
+PASSO 8
+Nome da refatoração:
+Justificativa:
 

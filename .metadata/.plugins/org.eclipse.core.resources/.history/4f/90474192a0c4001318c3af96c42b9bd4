@@ -3,7 +3,7 @@ package Refatoracao2_1aParte;
 public class Dependente extends Deducao{
 
 	private String nome; 
-	private CPF cpf; 
+	CPF cpf; 
 	
 	public Dependente(String nome, int[] cpf) {
 		super("Dependente", (float) 171.97);

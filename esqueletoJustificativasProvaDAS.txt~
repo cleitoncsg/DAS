@@ -35,3 +35,27 @@ PASSO 8
 Nome da refatoração:
 Justificativa:
 
+
+Lista enxuta de refatorações
+Refatoracoes Contempladas
+	Compondo Métodos
+		-Extrair Método
+		-Introduzir Variável Explicativa
+		Substituir Método por Método Objeto
+	Movendo Características entre Objetos
+		-Mover Método
+		-Mover Campo
+		-Extrair Classe
+		Ocultar Delegação
+	Organizando Dados
+		-encapsular campo
+		-Substituir número mágico por constante simbólica
+		Substituir valor de dado por objeto
+		Substituir array por objeto
+
+
+	Simplificando Expressoes Condicionais
+		-Decompor condicional
+		Consolidar fragmentos de condicional duplicados
+		Remover flag de controle
+

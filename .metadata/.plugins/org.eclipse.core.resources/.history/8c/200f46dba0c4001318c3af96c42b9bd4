@@ -1,6 +1,18 @@
 package Refatoracao2_1aParte;
 
 public class CPF {
+
+	/**
+	 * Refatoracao 2 - transformar a representacao por um vetor do CPF em uma série de atributos do tipo inteiro. 
+	 * Ao final dessa refatoração temos uma classe que representa um CPF e nos permitirá adicionar metodos rela-
+	 * cionados, como validação do numero de CPF, por exemplo. 
+	 * 
+	 * NOTA: Aplicando a operacao de refatoracao AO PE DA LETRA, temos que criar uma classe para armazenar o 
+	 * array. Essa classe será alterada aos poucos para desmembrar o array em atributos dessa classe. 
+	 * No entanto, nesse caso em específico, a classe fica em duplicidade com a classe CPF anteriormente criada. 
+	 * Podemos entao aplicar uma nova operação de refatoração "Introduzir Classe" para eliminar a classe em 
+	 * duplicidade.
+	 */
 	
 	//final int[] cpf;  //antiga representacao do CPF por vetor... 
 	NovoCPF novoCPF;

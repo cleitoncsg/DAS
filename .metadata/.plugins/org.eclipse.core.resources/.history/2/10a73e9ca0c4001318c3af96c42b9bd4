@@ -2,7 +2,7 @@ package Refatoracao2_1aParte;
 
 public class Deducao {
 	private String descricao; //para armazenar a descricao da deducao (previdencia oficial, previdencia privada, pens�o, etc...)
-	private float valor;
+	protected float valor;
 	
 	public Deducao(String descricao, float valorDeducao) {
 		this.descricao = descricao; 

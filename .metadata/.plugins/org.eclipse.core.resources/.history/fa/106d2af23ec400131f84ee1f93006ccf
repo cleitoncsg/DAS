@@ -1,0 +1,14 @@
+package Refatoracao_Cleiton;
+
+public class ContribuinteTributo {
+	Contribuinte c;
+	
+	public ContribuinteTributo(Contribuinte c){
+		this.c = c;
+	}
+	
+	public float computarTributo(){
+		
+	}
+
+}

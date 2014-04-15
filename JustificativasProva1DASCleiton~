@@ -1,11 +1,37 @@
 PASSO 1:
-foi criada a classe ContribuinteTributo com o método computaTributo()
+Encapsular os atributos das classes Deducao, Dependente e Rendimento
 
-PASSO 2: 
-Eliminar complexidade das estruturas condicionais do método computaTributo() 
+PASSO 2:
+Atribuir nome do atributo temp do método calcularRendimentos() da classe Contribuinte por um nome significativo
 
 PASSO 3:
-Eliminar a atribuição de valor temp = 0 nos else do método computaTributo
+Atribuir nomes significativos aos atributos temporários do método excluirDeducao() da classe Contribuinte
 
 PASSO 4:
+Retirar complexidade da estrutura condicional do método excluirDeducao() da classe Contribuinte
+
+PASSO 5: 
+Retirar comentários desnecessários da classe Contribuinte
+
+PASSO 6:
+Extrair classe ContribuinteTributo
+
+Passo 7:
+Extrair método calculoImposto da classe Contribuinte para classe ContribuinteTributo
+
+PASSO 8: 
+Eliminar complexidade das estruturas condicionais do método computaTributo()
+
+PASSO 9:
 Extrair métodos através da estruturas de controle que estavam no método ComputaTributo
+
+PASSO 10:
+Eliminar a atribuição do valor de zero ao atributo temp da classe ContribuinteTributo
+
+
+
+
+
+
+
+  

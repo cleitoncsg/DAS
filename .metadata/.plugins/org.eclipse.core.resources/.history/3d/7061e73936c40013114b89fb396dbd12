@@ -1,0 +1,38 @@
+package Refatoracao2_1aParte_FeitoEmSala;
+
+
+public class CPF {
+	
+	NovoCPF novoCPF; 
+	
+	public CPF(int[] cpf) {
+		novoCPF = new NovoCPF(); 
+		novoCPF.set1oDigito(cpf[0]);
+		novoCPF.set2oDigito(cpf[1]);
+		novoCPF.set3oDigito(cpf[2]);
+		novoCPF.set4oDigito(cpf[3]);
+		novoCPF.set5oDigito(cpf[4]);
+		novoCPF.set6oDigito(cpf[5]);
+		novoCPF.set7oDigito(cpf[6]);
+		novoCPF.set8oDigito(cpf[7]);
+		novoCPF.set9oDigito(cpf[8]);
+		novoCPF.set10oDigito(cpf[9]);
+		novoCPF.set11oDigito(cpf[10]);
+	}
+	
+	public int[] getCPF() {
+		return new int[]{novoCPF.get1oDigito(), 
+				         novoCPF.get2oDigito(), 
+				         novoCPF.get3oDigito(), 
+				         novoCPF.get4oDigito(), 
+				         novoCPF.get5oDigito(), 
+				         novoCPF.get6oDigito(), 
+				         novoCPF.get7oDigito(), 
+				         novoCPF.get8oDigito(), 
+				         novoCPF.get9oDigito(), 
+				         novoCPF.get10oDigito(),
+				         novoCPF.get11oDigito()};
+	}
+	
+	
+}

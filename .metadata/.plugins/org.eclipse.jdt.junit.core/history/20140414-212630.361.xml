@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="SuiteDeTestes (4)" project="treinoProvaUm" tests="43" started="43" failures="0" errors="21" ignored="0">
+  <testsuite name="Refatoracao2_1aParte_FeitoEmSala.SuiteDeTestes" time="0.003">
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.Contribuinte2aFaixaTest" time="0.0">
+      <testcase name="test" classname="Refatoracao2_1aParte_FeitoEmSala.Contribuinte2aFaixaTest" time="0.0">
+        <error>java.lang.Error: Unresolved compilation problems: 
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.deducoes is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.baseDeCalculo is not visible
+	The field Contribuinte.totalRendimentos is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.valor5aFaixa is not visible
+	The field Contribuinte.valor4aFaixa is not visible
+	The field Contribuinte.valor3aFaixa is not visible
+	The field Contribuinte.valor2aFaixa is not visible
+	The field Contribuinte.valor1aFaixa is not visible
+
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTributo.computarTributo(ContribuinteTributo.java:18)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.calcularImposto(Contribuinte.java:36)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.adicionarRendimento(Contribuinte.java:61)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte2aFaixaTest.setUp(Contribuinte2aFaixaTest.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+      </testcase>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.Contribuinte3aFaixaTest" time="0.0">
+      <testcase name="test" classname="Refatoracao2_1aParte_FeitoEmSala.Contribuinte3aFaixaTest" time="0.0">
+        <error>java.lang.Error: Unresolved compilation problems: 
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.deducoes is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.baseDeCalculo is not visible
+	The field Contribuinte.totalRendimentos is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.valor5aFaixa is not visible
+	The field Contribuinte.valor4aFaixa is not visible
+	The field Contribuinte.valor3aFaixa is not visible
+	The field Contribuinte.valor2aFaixa is not visible
+	The field Contribuinte.valor1aFaixa is not visible
+
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTributo.computarTributo(ContribuinteTributo.java:18)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.calcularImposto(Contribuinte.java:36)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.adicionarRendimento(Contribuinte.java:61)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte3aFaixaTest.setUp(Contribuinte3aFaixaTest.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+      </testcase>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.Contribuinte4aFaixaTest" time="0.0">
+      <testcase name="test" classname="Refatoracao2_1aParte_FeitoEmSala.Contribuinte4aFaixaTest" time="0.0">
+        <error>java.lang.Error: Unresolved compilation problems: 
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.deducoes is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.baseDeCalculo is not visible
+	The field Contribuinte.totalRendimentos is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.valor5aFaixa is not visible
+	The field Contribuinte.valor4aFaixa is not visible
+	The field Contribuinte.valor3aFaixa is not visible
+	The field Contribuinte.valor2aFaixa is not visible
+	The field Contribuinte.valor1aFaixa is not visible
+
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTributo.computarTributo(ContribuinteTributo.java:18)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.calcularImposto(Contribuinte.java:36)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.adicionarRendimento(Contribuinte.java:61)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte4aFaixaTest.setUp(Contribuinte4aFaixaTest.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+      </testcase>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.Contribuinte5aFaixaTest" time="0.001">
+      <testcase name="test" classname="Refatoracao2_1aParte_FeitoEmSala.Contribuinte5aFaixaTest" time="0.001">
+        <error>java.lang.Error: Unresolved compilation problems: 
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.deducoes is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.baseDeCalculo is not visible
+	The field Contribuinte.totalRendimentos is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.valor5aFaixa is not visible
+	The field Contribuinte.valor4aFaixa is not visible
+	The field Contribuinte.valor3aFaixa is not visible
+	The field Contribuinte.valor2aFaixa is not visible
+	The field Contribuinte.valor1aFaixa is not visible
+
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTributo.computarTributo(ContribuinteTributo.java:18)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.calcularImposto(Contribuinte.java:36)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.adicionarRendimento(Contribuinte.java:61)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte5aFaixaTest.setUp(Contribuinte5aFaixaTest.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+      </testcase>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.ContribuinteIsentoTest" time="0.0">
+      <testcase name="test" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteIsentoTest" time="0.0">
+        <error>java.lang.Error: Unresolved compilation problems: 
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.deducoes is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.baseDeCalculo is not visible
+	The field Contribuinte.totalRendimentos is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.valor5aFaixa is not visible
+	The field Contribuinte.valor4aFaixa is not visible
+	The field Contribuinte.valor3aFaixa is not visible
+	The field Contribuinte.valor2aFaixa is not visible
+	The field Contribuinte.valor1aFaixa is not visible
+
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTributo.computarTributo(ContribuinteTributo.java:18)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.calcularImposto(Contribuinte.java:36)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.adicionarRendimento(Contribuinte.java:61)
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteIsentoTest.setUp(ContribuinteIsentoTest.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+      </testcase>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.ContribuinteParametrizado" time="0.0">
+      <testcase name="test" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteParametrizado" time="0.0">
+        <error>java.lang.Error: Unresolved compilation problems: 
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.deducoes is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.baseDeCalculo is not visible
+	The field Contribuinte.totalRendimentos is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.valor5aFaixa is not visible
+	The field Contribuinte.valor4aFaixa is not visible
+	The field Contribuinte.valor3aFaixa is not visible
+	The field Contribuinte.valor2aFaixa is not visible
+	The field Contribuinte.valor1aFaixa is not visible
+
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTributo.computarTributo(ContribuinteTributo.java:18)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.calcularImposto(Contribuinte.java:36)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.adicionarRendimento(Contribuinte.java:61)
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteParametrizado.setUp(ContribuinteParametrizado.java:22)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+      </testcase>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" incomplete="true">
+      <testcase name="testContribuinte" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirDeducao" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarRendimento" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarDeducao" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirRendimento" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.DeducaoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="Refatoracao2_1aParte_FeitoEmSala.DeducaoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="Refatoracao2_1aParte_FeitoEmSala.DeducaoTest" incomplete="true"/>
+      <testcase name="testDeducao" classname="Refatoracao2_1aParte_FeitoEmSala.DeducaoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" incomplete="true">
+      <testcase name="testGetValor" classname="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" incomplete="true"/>
+      <testcase name="testDependente" classname="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" incomplete="true"/>
+      <testcase name="testGetNome" classname="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" incomplete="true"/>
+      <testcase name="testGetCpf" classname="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.ImpostoTeste" time="0.0">
+      <testcase name="testeBaseDeCalculo" classname="Refatoracao2_1aParte_FeitoEmSala.ImpostoTeste" time="0.0">
+        <error>java.lang.Error: Unresolved compilation problems: 
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.deducoes is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.baseDeCalculo is not visible
+	The field Contribuinte.totalRendimentos is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.valor5aFaixa is not visible
+	The field Contribuinte.valor4aFaixa is not visible
+	The field Contribuinte.valor3aFaixa is not visible
+	The field Contribuinte.valor2aFaixa is not visible
+	The field Contribuinte.valor1aFaixa is not visible
+
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTributo.computarTributo(ContribuinteTributo.java:18)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.calcularImposto(Contribuinte.java:36)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.adicionarRendimento(Contribuinte.java:61)
+	at Refatoracao2_1aParte_FeitoEmSala.ImpostoTeste.setUp(ImpostoTeste.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+      </testcase>
+      <testcase name="testeValorRendimentosIsentos" classname="Refatoracao2_1aParte_FeitoEmSala.ImpostoTeste" time="0.0">
+        <error>java.lang.Error: Unresolved compilation problems: 
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.deducoes is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.baseDeCalculo is not visible
+	The field Contribuinte.totalRendimentos is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.valor5aFaixa is not visible
+	The field Contribuinte.valor4aFaixa is not visible
+	The field Contribuinte.valor3aFaixa is not visible
+	The field Contribuinte.valor2aFaixa is not visible
+	The field Contribuinte.valor1aFaixa is not visible
+
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTributo.computarTributo(ContribuinteTributo.java:18)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.calcularImposto(Contribuinte.java:36)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.adicionarRendimento(Contribuinte.java:61)
+	at Refatoracao2_1aParte_FeitoEmSala.ImpostoTeste.setUp(ImpostoTeste.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+      </testcase>
+      <testcase name="testeValorRendimentosTributaveis" classname="Refatoracao2_1aParte_FeitoEmSala.ImpostoTeste" time="0.0">
+        <error>java.lang.Error: Unresolved compilation problems: 
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.deducoes is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.baseDeCalculo is not visible
+	The field Contribuinte.totalRendimentos is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.valor5aFaixa is not visible
+	The field Contribuinte.valor4aFaixa is not visible
+	The field Contribuinte.valor3aFaixa is not visible
+	The field Contribuinte.valor2aFaixa is not visible
+	The field Contribuinte.valor1aFaixa is not visible
+
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTributo.computarTributo(ContribuinteTributo.java:18)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.calcularImposto(Contribuinte.java:36)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.adicionarRendimento(Contribuinte.java:61)
+	at Refatoracao2_1aParte_FeitoEmSala.ImpostoTeste.setUp(ImpostoTeste.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+      </testcase>
+      <testcase name="testeValorDeducoes" classname="Refatoracao2_1aParte_FeitoEmSala.ImpostoTeste" time="0.0">
+        <error>java.lang.Error: Unresolved compilation problems: 
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.deducoes is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.baseDeCalculo is not visible
+	The field Contribuinte.totalRendimentos is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.valor5aFaixa is not visible
+	The field Contribuinte.valor4aFaixa is not visible
+	The field Contribuinte.valor3aFaixa is not visible
+	The field Contribuinte.valor2aFaixa is not visible
+	The field Contribuinte.valor1aFaixa is not visible
+
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTributo.computarTributo(ContribuinteTributo.java:18)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.calcularImposto(Contribuinte.java:36)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.adicionarRendimento(Contribuinte.java:61)
+	at Refatoracao2_1aParte_FeitoEmSala.ImpostoTeste.setUp(ImpostoTeste.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+      </testcase>
+      <testcase name="testeValorRendimentos" classname="Refatoracao2_1aParte_FeitoEmSala.ImpostoTeste" time="0.0">
+        <error>java.lang.Error: Unresolved compilation problems: 
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.deducoes is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.baseDeCalculo is not visible
+	The field Contribuinte.totalRendimentos is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.valor5aFaixa is not visible
+	The field Contribuinte.valor4aFaixa is not visible
+	The field Contribuinte.valor3aFaixa is not visible
+	The field Contribuinte.valor2aFaixa is not visible
+	The field Contribuinte.valor1aFaixa is not visible
+
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTributo.computarTributo(ContribuinteTributo.java:18)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.calcularImposto(Contribuinte.java:36)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.adicionarRendimento(Contribuinte.java:61)
+	at Refatoracao2_1aParte_FeitoEmSala.ImpostoTeste.setUp(ImpostoTeste.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+      </testcase>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" incomplete="true"/>
+      <testcase name="testIsTributavel" classname="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" incomplete="true"/>
+      <testcase name="testRendimento" classname="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao2_1aParte_FeitoEmSala.TestesElementares" time="0.002">
+      <testsuite name="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" time="0.001">
+        <testcase name="testContribuinte" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" time="0.0">
+          <error>java.lang.Error: Unresolved compilation problems: 
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.deducoes is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.baseDeCalculo is not visible
+	The field Contribuinte.totalRendimentos is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.valor5aFaixa is not visible
+	The field Contribuinte.valor4aFaixa is not visible
+	The field Contribuinte.valor3aFaixa is not visible
+	The field Contribuinte.valor2aFaixa is not visible
+	The field Contribuinte.valor1aFaixa is not visible
+
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTributo.computarTributo(ContribuinteTributo.java:18)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.calcularImposto(Contribuinte.java:36)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.adicionarRendimento(Contribuinte.java:61)
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest.setUp(ContribuinteTest.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.deducoes is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.baseDeCalculo is not visible
+	The field Contribuinte.totalRendimentos is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.valor5aFaixa is not visible
+	The field Contribuinte.valor4aFaixa is not visible
+	The field Contribuinte.valor3aFaixa is not visible
+	The field Contribuinte.valor2aFaixa is not visible
+	The field Contribuinte.valor1aFaixa is not visible
+
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTributo.computarTributo(ContribuinteTributo.java:18)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.calcularImposto(Contribuinte.java:36)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.adicionarRendimento(Contribuinte.java:61)
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest.setUp(ContribuinteTest.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+        </testcase>
+        <testcase name="testExcluirDeducao" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" time="0.0">
+          <error>java.lang.Error: Unresolved compilation problems: 
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.deducoes is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.baseDeCalculo is not visible
+	The field Contribuinte.totalRendimentos is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.valor5aFaixa is not visible
+	The field Contribuinte.valor4aFaixa is not visible
+	The field Contribuinte.valor3aFaixa is not visible
+	The field Contribuinte.valor2aFaixa is not visible
+	The field Contribuinte.valor1aFaixa is not visible
+
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTributo.computarTributo(ContribuinteTributo.java:18)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.calcularImposto(Contribuinte.java:36)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.adicionarRendimento(Contribuinte.java:61)
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest.setUp(ContribuinteTest.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.deducoes is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.baseDeCalculo is not visible
+	The field Contribuinte.totalRendimentos is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.valor5aFaixa is not visible
+	The field Contribuinte.valor4aFaixa is not visible
+	The field Contribuinte.valor3aFaixa is not visible
+	The field Contribuinte.valor2aFaixa is not visible
+	The field Contribuinte.valor1aFaixa is not visible
+
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTributo.computarTributo(ContribuinteTributo.java:18)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.calcularImposto(Contribuinte.java:36)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.adicionarRendimento(Contribuinte.java:61)
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest.setUp(ContribuinteTest.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+        </testcase>
+        <testcase name="testAdicionarRendimento" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" time="0.0">
+          <error>java.lang.Error: Unresolved compilation problems: 
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.deducoes is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.baseDeCalculo is not visible
+	The field Contribuinte.totalRendimentos is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.valor5aFaixa is not visible
+	The field Contribuinte.valor4aFaixa is not visible
+	The field Contribuinte.valor3aFaixa is not visible
+	The field Contribuinte.valor2aFaixa is not visible
+	The field Contribuinte.valor1aFaixa is not visible
+
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTributo.computarTributo(ContribuinteTributo.java:18)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.calcularImposto(Contribuinte.java:36)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.adicionarRendimento(Contribuinte.java:61)
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest.setUp(ContribuinteTest.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.deducoes is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.baseDeCalculo is not visible
+	The field Contribuinte.totalRendimentos is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.valor5aFaixa is not visible
+	The field Contribuinte.valor4aFaixa is not visible
+	The field Contribuinte.valor3aFaixa is not visible
+	The field Contribuinte.valor2aFaixa is not visible
+	The field Contribuinte.valor1aFaixa is not visible
+
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTributo.computarTributo(ContribuinteTributo.java:18)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.calcularImposto(Contribuinte.java:36)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.adicionarRendimento(Contribuinte.java:61)
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest.setUp(ContribuinteTest.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+        </testcase>
+        <testcase name="testAdicionarDeducao" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" time="0.0">
+          <error>java.lang.Error: Unresolved compilation problems: 
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.deducoes is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.baseDeCalculo is not visible
+	The field Contribuinte.totalRendimentos is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.valor5aFaixa is not visible
+	The field Contribuinte.valor4aFaixa is not visible
+	The field Contribuinte.valor3aFaixa is not visible
+	The field Contribuinte.valor2aFaixa is not visible
+	The field Contribuinte.valor1aFaixa is not visible
+
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTributo.computarTributo(ContribuinteTributo.java:18)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.calcularImposto(Contribuinte.java:36)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.adicionarRendimento(Contribuinte.java:61)
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest.setUp(ContribuinteTest.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.deducoes is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.baseDeCalculo is not visible
+	The field Contribuinte.totalRendimentos is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.valor5aFaixa is not visible
+	The field Contribuinte.valor4aFaixa is not visible
+	The field Contribuinte.valor3aFaixa is not visible
+	The field Contribuinte.valor2aFaixa is not visible
+	The field Contribuinte.valor1aFaixa is not visible
+
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTributo.computarTributo(ContribuinteTributo.java:18)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.calcularImposto(Contribuinte.java:36)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.adicionarRendimento(Contribuinte.java:61)
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest.setUp(ContribuinteTest.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+        </testcase>
+        <testcase name="testExcluirRendimento" classname="Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest" time="0.002">
+          <error>java.lang.Error: Unresolved compilation problems: 
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.deducoes is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.baseDeCalculo is not visible
+	The field Contribuinte.totalRendimentos is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.valor5aFaixa is not visible
+	The field Contribuinte.valor4aFaixa is not visible
+	The field Contribuinte.valor3aFaixa is not visible
+	The field Contribuinte.valor2aFaixa is not visible
+	The field Contribuinte.valor1aFaixa is not visible
+
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTributo.computarTributo(ContribuinteTributo.java:18)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.calcularImposto(Contribuinte.java:36)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.adicionarRendimento(Contribuinte.java:61)
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest.setUp(ContribuinteTest.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+java.lang.Error: Unresolved compilation problems: 
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.deducoes is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.baseDeCalculo is not visible
+	The field Contribuinte.totalRendimentos is not visible
+	The field Contribuinte.totalDeducoes is not visible
+	The field Contribuinte.valor5aFaixa is not visible
+	The field Contribuinte.valor4aFaixa is not visible
+	The field Contribuinte.valor3aFaixa is not visible
+	The field Contribuinte.valor2aFaixa is not visible
+	The field Contribuinte.valor1aFaixa is not visible
+
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTributo.computarTributo(ContribuinteTributo.java:18)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.calcularImposto(Contribuinte.java:36)
+	at Refatoracao2_1aParte_FeitoEmSala.Contribuinte.adicionarRendimento(Contribuinte.java:61)
+	at Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest.setUp(ContribuinteTest.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</error>
+        </testcase>
+      </testsuite>
+      <testsuite name="Refatoracao2_1aParte_FeitoEmSala.DeducaoTest" time="0.0">
+        <testcase name="testGetDescricao" classname="Refatoracao2_1aParte_FeitoEmSala.DeducaoTest" time="0.001"/>
+        <testcase name="testGetValor" classname="Refatoracao2_1aParte_FeitoEmSala.DeducaoTest" time="0.0"/>
+        <testcase name="testDeducao" classname="Refatoracao2_1aParte_FeitoEmSala.DeducaoTest" time="0.0"/>
+      </testsuite>
+      <testsuite name="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" time="0.0">
+        <testcase name="testGetValor" classname="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" time="0.0"/>
+        <testcase name="testDependente" classname="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" time="0.001"/>
+        <testcase name="testGetNome" classname="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" time="0.0"/>
+        <testcase name="testGetCpf" classname="Refatoracao2_1aParte_FeitoEmSala.DependenteTest" time="0.0"/>
+      </testsuite>
+      <testsuite name="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" time="0.0">
+        <testcase name="testGetDescricao" classname="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" time="0.001"/>
+        <testcase name="testGetValor" classname="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" time="0.0"/>
+        <testcase name="testIsTributavel" classname="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" time="0.0"/>
+        <testcase name="testRendimento" classname="Refatoracao2_1aParte_FeitoEmSala.RendimentoTest" time="0.001"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

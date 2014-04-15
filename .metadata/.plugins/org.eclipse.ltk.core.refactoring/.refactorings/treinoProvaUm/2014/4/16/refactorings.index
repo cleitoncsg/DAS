@@ -19,3 +19,26 @@
 1397518206965	Extract method 'calculoFaixa3'
 1397518224097	Extract method 'calculoFaixa4'
 1397518236242	Extract method 'calculoFaixa5'
+1397522293349	Rename package 'Refatoracao2_1aParte_FeitoEmSala'
+1397522785083	Delete element
+1397523381312	Delete element
+1397523469760	Rename package 'RefatoracaoCleiton'
+1397523919223	Copy compilation unit
+1397523954370	Copy compilation unit
+1397524084218	Delete element
+1397524570332	Delete element
+1397524573590	Delete element
+1397524576205	Delete element
+1397524636772	Delete element
+1397524714394	Rename package 'Refatoracao_1'
+1397524736588	Delete element
+1397526774911	Extract method 'calculoFaixa1'
+1397526818796	Extract method 'calculoFaixa2'
+1397526841379	Extract method 'calculoFaixa3'
+1397526855305	Extract method 'calculoFaixa4'
+1397526871366	Extract method 'calculoFaixa5'
+1397527432688	Extract local variable 'baseFaixa5'
+1397527619624	Extract constant 'baseFaixa4'
+1397527829253	Extract constant 'baseFaixa2'
+1397527876828	Extract constant 'baseFaixa1'
+1397528419948	Extract constant 'valorFaixa'

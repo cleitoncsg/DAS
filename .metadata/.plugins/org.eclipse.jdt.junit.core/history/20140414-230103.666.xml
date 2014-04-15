@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="SuiteDeTestes (1)" project="treinoProvaUm" tests="43" started="43" failures="3" errors="0" ignored="0">
+  <testsuite name="Refatoracao_Cleiton.SuiteDeTestes" time="0.001">
+    <testsuite name="Refatoracao_Cleiton.Contribuinte2aFaixaTest" time="0.0">
+      <testcase name="test" classname="Refatoracao_Cleiton.Contribuinte2aFaixaTest" time="0.0">
+        <failure>junit.framework.AssertionFailedError: expected:&lt;84.39&gt; but was:&lt;192.18601989746094&gt;
+	at junit.framework.Assert.fail(Assert.java:57)
+	at junit.framework.Assert.failNotEquals(Assert.java:329)
+	at junit.framework.Assert.assertEquals(Assert.java:120)
+	at junit.framework.Assert.assertEquals(Assert.java:129)
+	at Refatoracao_Cleiton.Contribuinte2aFaixaTest.test(Contribuinte2aFaixaTest.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</failure>
+      </testcase>
+    </testsuite>
+    <testsuite name="Refatoracao_Cleiton.Contribuinte3aFaixaTest" time="0.0">
+      <testcase name="test" classname="Refatoracao_Cleiton.Contribuinte3aFaixaTest" time="0.0">
+        <failure>junit.framework.AssertionFailedError: expected:&lt;84.39&gt; but was:&lt;192.18601989746094&gt;
+	at junit.framework.Assert.fail(Assert.java:57)
+	at junit.framework.Assert.failNotEquals(Assert.java:329)
+	at junit.framework.Assert.assertEquals(Assert.java:120)
+	at junit.framework.Assert.assertEquals(Assert.java:129)
+	at Refatoracao_Cleiton.Contribuinte3aFaixaTest.test(Contribuinte3aFaixaTest.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</failure>
+      </testcase>
+    </testsuite>
+    <testsuite name="Refatoracao_Cleiton.Contribuinte4aFaixaTest" time="0.0">
+      <testcase name="test" classname="Refatoracao_Cleiton.Contribuinte4aFaixaTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao_Cleiton.Contribuinte5aFaixaTest" time="0.0">
+      <testcase name="test" classname="Refatoracao_Cleiton.Contribuinte5aFaixaTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao_Cleiton.ContribuinteIsentoTest" time="0.0">
+      <testcase name="test" classname="Refatoracao_Cleiton.ContribuinteIsentoTest" time="0.0">
+        <failure>junit.framework.AssertionFailedError: expected:&lt;0.0&gt; but was:&lt;128.2020263671875&gt;
+	at junit.framework.Assert.fail(Assert.java:57)
+	at junit.framework.Assert.failNotEquals(Assert.java:329)
+	at junit.framework.Assert.assertEquals(Assert.java:120)
+	at junit.framework.Assert.assertEquals(Assert.java:129)
+	at Refatoracao_Cleiton.ContribuinteIsentoTest.test(ContribuinteIsentoTest.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+</failure>
+      </testcase>
+    </testsuite>
+    <testsuite name="Refatoracao_Cleiton.ContribuinteParametrizado" time="0.0">
+      <testcase name="test" classname="Refatoracao_Cleiton.ContribuinteParametrizado" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao_Cleiton.ContribuinteTest" incomplete="true">
+      <testcase name="testContribuinte" classname="Refatoracao_Cleiton.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirDeducao" classname="Refatoracao_Cleiton.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarRendimento" classname="Refatoracao_Cleiton.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarDeducao" classname="Refatoracao_Cleiton.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirRendimento" classname="Refatoracao_Cleiton.ContribuinteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao_Cleiton.DeducaoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="Refatoracao_Cleiton.DeducaoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="Refatoracao_Cleiton.DeducaoTest" incomplete="true"/>
+      <testcase name="testDeducao" classname="Refatoracao_Cleiton.DeducaoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao_Cleiton.DependenteTest" incomplete="true">
+      <testcase name="testGetValor" classname="Refatoracao_Cleiton.DependenteTest" incomplete="true"/>
+      <testcase name="testDependente" classname="Refatoracao_Cleiton.DependenteTest" incomplete="true"/>
+      <testcase name="testGetNome" classname="Refatoracao_Cleiton.DependenteTest" incomplete="true"/>
+      <testcase name="testGetCpf" classname="Refatoracao_Cleiton.DependenteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao_Cleiton.ImpostoTeste" time="0.0">
+      <testcase name="testeBaseDeCalculo" classname="Refatoracao_Cleiton.ImpostoTeste" time="0.0"/>
+      <testcase name="testeValorRendimentosIsentos" classname="Refatoracao_Cleiton.ImpostoTeste" time="0.0"/>
+      <testcase name="testeValorRendimentosTributaveis" classname="Refatoracao_Cleiton.ImpostoTeste" time="0.0"/>
+      <testcase name="testeValorDeducoes" classname="Refatoracao_Cleiton.ImpostoTeste" time="0.0"/>
+      <testcase name="testeValorRendimentos" classname="Refatoracao_Cleiton.ImpostoTeste" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao_Cleiton.RendimentoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="Refatoracao_Cleiton.RendimentoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="Refatoracao_Cleiton.RendimentoTest" incomplete="true"/>
+      <testcase name="testIsTributavel" classname="Refatoracao_Cleiton.RendimentoTest" incomplete="true"/>
+      <testcase name="testRendimento" classname="Refatoracao_Cleiton.RendimentoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao_Cleiton.TestesElementares" time="0.001">
+      <testsuite name="Refatoracao_Cleiton.ContribuinteTest" time="0.0">
+        <testcase name="testContribuinte" classname="Refatoracao_Cleiton.ContribuinteTest" time="0.0"/>
+        <testcase name="testExcluirDeducao" classname="Refatoracao_Cleiton.ContribuinteTest" time="0.0"/>
+        <testcase name="testAdicionarRendimento" classname="Refatoracao_Cleiton.ContribuinteTest" time="0.0"/>
+        <testcase name="testAdicionarDeducao" classname="Refatoracao_Cleiton.ContribuinteTest" time="0.0"/>
+        <testcase name="testExcluirRendimento" classname="Refatoracao_Cleiton.ContribuinteTest" time="0.0"/>
+      </testsuite>
+      <testsuite name="Refatoracao_Cleiton.DeducaoTest" time="0.0">
+        <testcase name="testGetDescricao" classname="Refatoracao_Cleiton.DeducaoTest" time="0.0"/>
+        <testcase name="testGetValor" classname="Refatoracao_Cleiton.DeducaoTest" time="0.0"/>
+        <testcase name="testDeducao" classname="Refatoracao_Cleiton.DeducaoTest" time="0.0"/>
+      </testsuite>
+      <testsuite name="Refatoracao_Cleiton.DependenteTest" time="0.001">
+        <testcase name="testGetValor" classname="Refatoracao_Cleiton.DependenteTest" time="0.0"/>
+        <testcase name="testDependente" classname="Refatoracao_Cleiton.DependenteTest" time="0.0"/>
+        <testcase name="testGetNome" classname="Refatoracao_Cleiton.DependenteTest" time="0.0"/>
+        <testcase name="testGetCpf" classname="Refatoracao_Cleiton.DependenteTest" time="0.0"/>
+      </testsuite>
+      <testsuite name="Refatoracao_Cleiton.RendimentoTest" time="0.0">
+        <testcase name="testGetDescricao" classname="Refatoracao_Cleiton.RendimentoTest" time="0.0"/>
+        <testcase name="testGetValor" classname="Refatoracao_Cleiton.RendimentoTest" time="0.0"/>
+        <testcase name="testIsTributavel" classname="Refatoracao_Cleiton.RendimentoTest" time="0.0"/>
+        <testcase name="testRendimento" classname="Refatoracao_Cleiton.RendimentoTest" time="0.0"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

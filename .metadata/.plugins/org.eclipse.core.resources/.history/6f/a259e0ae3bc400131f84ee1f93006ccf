@@ -1,0 +1,29 @@
+package Refatoracao2_1aParte_FeitoEmSala;
+
+import org.junit.runner.RunWith;
+import org.junit.runners.Suite;
+import org.junit.runners.Suite.SuiteClasses;
+
+import RefatoracaoCleiton.Contribuinte2aFaixaTest;
+import RefatoracaoCleiton.Contribuinte3aFaixaTest;
+import RefatoracaoCleiton.Contribuinte4aFaixaTest;
+import RefatoracaoCleiton.Contribuinte5aFaixaTest;
+import RefatoracaoCleiton.ContribuinteIsentoTest;
+import RefatoracaoCleiton.ContribuinteParametrizado;
+import RefatoracaoCleiton.ContribuinteTest;
+import RefatoracaoCleiton.DeducaoTest;
+import RefatoracaoCleiton.DependenteTest;
+import RefatoracaoCleiton.ImpostoTeste;
+import RefatoracaoCleiton.RendimentoTest;
+import RefatoracaoCleiton.TestesElementares;
+
+
+@RunWith(Suite.class)
+@SuiteClasses({ Contribuinte2aFaixaTest.class, Contribuinte3aFaixaTest.class,
+		Contribuinte4aFaixaTest.class, Contribuinte5aFaixaTest.class,
+		ContribuinteIsentoTest.class, ContribuinteParametrizado.class,
+		ContribuinteTest.class, DeducaoTest.class, DependenteTest.class,
+		ImpostoTeste.class, RendimentoTest.class, TestesElementares.class })
+public class SuiteDeTestes {
+
+}

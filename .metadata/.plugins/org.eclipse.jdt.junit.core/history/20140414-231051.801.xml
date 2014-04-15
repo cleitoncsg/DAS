@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="SuiteDeTestes (1)" project="treinoProvaUm" tests="43" started="43" failures="0" errors="0" ignored="0">
+  <testsuite name="Refatoracao_Cleiton.SuiteDeTestes" time="0.001">
+    <testsuite name="Refatoracao_Cleiton.Contribuinte2aFaixaTest" time="0.0">
+      <testcase name="test" classname="Refatoracao_Cleiton.Contribuinte2aFaixaTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao_Cleiton.Contribuinte3aFaixaTest" time="0.0">
+      <testcase name="test" classname="Refatoracao_Cleiton.Contribuinte3aFaixaTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao_Cleiton.Contribuinte4aFaixaTest" time="0.0">
+      <testcase name="test" classname="Refatoracao_Cleiton.Contribuinte4aFaixaTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao_Cleiton.Contribuinte5aFaixaTest" time="0.0">
+      <testcase name="test" classname="Refatoracao_Cleiton.Contribuinte5aFaixaTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao_Cleiton.ContribuinteIsentoTest" time="0.0">
+      <testcase name="test" classname="Refatoracao_Cleiton.ContribuinteIsentoTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao_Cleiton.ContribuinteParametrizado" time="0.0">
+      <testcase name="test" classname="Refatoracao_Cleiton.ContribuinteParametrizado" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao_Cleiton.ContribuinteTest" incomplete="true">
+      <testcase name="testContribuinte" classname="Refatoracao_Cleiton.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirDeducao" classname="Refatoracao_Cleiton.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarRendimento" classname="Refatoracao_Cleiton.ContribuinteTest" incomplete="true"/>
+      <testcase name="testAdicionarDeducao" classname="Refatoracao_Cleiton.ContribuinteTest" incomplete="true"/>
+      <testcase name="testExcluirRendimento" classname="Refatoracao_Cleiton.ContribuinteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao_Cleiton.DeducaoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="Refatoracao_Cleiton.DeducaoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="Refatoracao_Cleiton.DeducaoTest" incomplete="true"/>
+      <testcase name="testDeducao" classname="Refatoracao_Cleiton.DeducaoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao_Cleiton.DependenteTest" incomplete="true">
+      <testcase name="testGetValor" classname="Refatoracao_Cleiton.DependenteTest" incomplete="true"/>
+      <testcase name="testDependente" classname="Refatoracao_Cleiton.DependenteTest" incomplete="true"/>
+      <testcase name="testGetNome" classname="Refatoracao_Cleiton.DependenteTest" incomplete="true"/>
+      <testcase name="testGetCpf" classname="Refatoracao_Cleiton.DependenteTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao_Cleiton.ImpostoTeste" time="0.001">
+      <testcase name="testeBaseDeCalculo" classname="Refatoracao_Cleiton.ImpostoTeste" time="0.0"/>
+      <testcase name="testeValorRendimentosIsentos" classname="Refatoracao_Cleiton.ImpostoTeste" time="0.0"/>
+      <testcase name="testeValorRendimentosTributaveis" classname="Refatoracao_Cleiton.ImpostoTeste" time="0.001"/>
+      <testcase name="testeValorDeducoes" classname="Refatoracao_Cleiton.ImpostoTeste" time="0.0"/>
+      <testcase name="testeValorRendimentos" classname="Refatoracao_Cleiton.ImpostoTeste" time="0.0"/>
+    </testsuite>
+    <testsuite name="Refatoracao_Cleiton.RendimentoTest" incomplete="true">
+      <testcase name="testGetDescricao" classname="Refatoracao_Cleiton.RendimentoTest" incomplete="true"/>
+      <testcase name="testGetValor" classname="Refatoracao_Cleiton.RendimentoTest" incomplete="true"/>
+      <testcase name="testIsTributavel" classname="Refatoracao_Cleiton.RendimentoTest" incomplete="true"/>
+      <testcase name="testRendimento" classname="Refatoracao_Cleiton.RendimentoTest" incomplete="true"/>
+    </testsuite>
+    <testsuite name="Refatoracao_Cleiton.TestesElementares" time="0.001">
+      <testsuite name="Refatoracao_Cleiton.ContribuinteTest" time="0.0">
+        <testcase name="testContribuinte" classname="Refatoracao_Cleiton.ContribuinteTest" time="0.0"/>
+        <testcase name="testExcluirDeducao" classname="Refatoracao_Cleiton.ContribuinteTest" time="0.0"/>
+        <testcase name="testAdicionarRendimento" classname="Refatoracao_Cleiton.ContribuinteTest" time="0.0"/>
+        <testcase name="testAdicionarDeducao" classname="Refatoracao_Cleiton.ContribuinteTest" time="0.0"/>
+        <testcase name="testExcluirRendimento" classname="Refatoracao_Cleiton.ContribuinteTest" time="0.0"/>
+      </testsuite>
+      <testsuite name="Refatoracao_Cleiton.DeducaoTest" time="0.0">
+        <testcase name="testGetDescricao" classname="Refatoracao_Cleiton.DeducaoTest" time="0.0"/>
+        <testcase name="testGetValor" classname="Refatoracao_Cleiton.DeducaoTest" time="0.0"/>
+        <testcase name="testDeducao" classname="Refatoracao_Cleiton.DeducaoTest" time="0.0"/>
+      </testsuite>
+      <testsuite name="Refatoracao_Cleiton.DependenteTest" time="0.0">
+        <testcase name="testGetValor" classname="Refatoracao_Cleiton.DependenteTest" time="0.0"/>
+        <testcase name="testDependente" classname="Refatoracao_Cleiton.DependenteTest" time="0.0"/>
+        <testcase name="testGetNome" classname="Refatoracao_Cleiton.DependenteTest" time="0.0"/>
+        <testcase name="testGetCpf" classname="Refatoracao_Cleiton.DependenteTest" time="0.0"/>
+      </testsuite>
+      <testsuite name="Refatoracao_Cleiton.RendimentoTest" time="0.0">
+        <testcase name="testGetDescricao" classname="Refatoracao_Cleiton.RendimentoTest" time="0.0"/>
+        <testcase name="testGetValor" classname="Refatoracao_Cleiton.RendimentoTest" time="0.0"/>
+        <testcase name="testIsTributavel" classname="Refatoracao_Cleiton.RendimentoTest" time="0.0"/>
+        <testcase name="testRendimento" classname="Refatoracao_Cleiton.RendimentoTest" time="0.0"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

@@ -1,0 +1,101 @@
+package RefatoracaoCleiton;
+
+import java.util.Enumeration;
+import java.util.Vector;
+
+
+public class ContribuinteTributo {
+	
+	Contribuinte c;
+	Enumeration<Rendimento> rendimentos;
+	Enumeration<Deducao> d; 
+	float temp;
+
+	public ContribuinteTributo(Contribuinte c) {
+		this.c = c;
+	}
+	
+	public float computarTributo(){
+		c.totalDeducoes = 0; 
+		
+		d = c.deducoes.elements();
+		while (d.hasMoreElements()) {
+			Deducao temp = d.nextElement();
+			c.totalDeducoes += temp.getValor();
+		}
+		
+		c.baseDeCalculo = c.totalRendimentos - c.totalDeducoes; 
+		
+		calculoFaixa1();
+		
+		calculoFaixa2();
+		
+		calculoFaixa3();
+		calculoFaixa4();
+		calculoFaixa5();
+		
+		temp = c.valor5aFaixa + c.valor4aFaixa + c.valor3aFaixa + c.valor2aFaixa + c.valor1aFaixa;
+		
+		return temp;
+	}
+
+	private void calculoFaixa5() {
+		temp = c.baseDeCalculo - (float)1710.79;
+		if (temp <= 0)
+			c.valor1aFaixa = temp * 0; 
+		else {
+			c.valor1aFaixa = 0;
+			temp = 0;
+		}
+	}
+
+	private void calculoFaixa4() {
+		temp = c.baseDeCalculo - (float)1710.79;
+		if (temp > 0){
+			if (c.baseDeCalculo > 2563.91) 
+				temp = (float)2563.91 - (float)1710.79; 
+			c.valor2aFaixa = temp * (float)0.075;
+		}
+		else {
+			c.valor2aFaixa = 0;
+			temp = 0;
+		}
+	}
+
+	private void calculoFaixa3() {
+		temp = c.baseDeCalculo - (float) temp - (float)2563.92;
+		if (temp > 0){
+			if (c.baseDeCalculo > 3418.60) 
+				temp = (float)3418.60 - (float)2563.92;
+			c.valor3aFaixa = temp * (float)0.15;
+		} 
+		else {
+			c.valor3aFaixa = 0;
+			temp = 0;
+		}
+	}
+
+	private void calculoFaixa2() {
+		temp = c.baseDeCalculo - (float)3418.60;
+		
+		if (temp > 0){
+			if (c.baseDeCalculo > 4271.59) 
+				temp = (float)4271.59 - (float)3418.60; 
+			c.valor4aFaixa = temp * (float)0.225;
+		}			 
+		else {
+			c.valor4aFaixa = 0;
+			temp = 0;
+		}
+	}
+
+	private void calculoFaixa1() {
+		temp = c.baseDeCalculo - (float)4271.59; 
+		if(temp > 0)
+			c.valor5aFaixa = temp * (float)0.275;
+		else {
+			c.valor5aFaixa = 0; 
+		}
+	}
+
+}

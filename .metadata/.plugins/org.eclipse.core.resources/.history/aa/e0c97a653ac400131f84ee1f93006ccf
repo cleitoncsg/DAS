@@ -1,0 +1,29 @@
+package RefatoracaoCSG;
+
+import org.junit.runner.RunWith;
+import org.junit.runners.Suite;
+import org.junit.runners.Suite.SuiteClasses;
+
+import Refatoracao2_1aParte_FeitoEmSala.Contribuinte2aFaixaTest;
+import Refatoracao2_1aParte_FeitoEmSala.Contribuinte3aFaixaTest;
+import Refatoracao2_1aParte_FeitoEmSala.Contribuinte4aFaixaTest;
+import Refatoracao2_1aParte_FeitoEmSala.Contribuinte5aFaixaTest;
+import Refatoracao2_1aParte_FeitoEmSala.ContribuinteIsentoTest;
+import Refatoracao2_1aParte_FeitoEmSala.ContribuinteParametrizado;
+import Refatoracao2_1aParte_FeitoEmSala.ContribuinteTest;
+import Refatoracao2_1aParte_FeitoEmSala.DeducaoTest;
+import Refatoracao2_1aParte_FeitoEmSala.DependenteTest;
+import Refatoracao2_1aParte_FeitoEmSala.ImpostoTeste;
+import Refatoracao2_1aParte_FeitoEmSala.RendimentoTest;
+import Refatoracao2_1aParte_FeitoEmSala.TestesElementares;
+
+
+@RunWith(Suite.class)
+@SuiteClasses({ Contribuinte2aFaixaTest.class, Contribuinte3aFaixaTest.class,
+		Contribuinte4aFaixaTest.class, Contribuinte5aFaixaTest.class,
+		ContribuinteIsentoTest.class, ContribuinteParametrizado.class,
+		ContribuinteTest.class, DeducaoTest.class, DependenteTest.class,
+		ImpostoTeste.class, RendimentoTest.class, TestesElementares.class })
+public class SuiteDeTestes {
+
+}
